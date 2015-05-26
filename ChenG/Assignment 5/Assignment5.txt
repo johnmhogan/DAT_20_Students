@@ -1,0 +1,38 @@
+from sklearn import cross_validation
+from sklearn.linear_model import LinearRegression
+
+# 2. Split the dataframe horizontally into two separate dataframes each having N/2 rows. Call the dataframe with first N/2 rows `bikeshare_train`, and the latter half `bikeshare_test` 
+bikeshare_train=bike[:8689]
+bikeshare_test=bike[8689:]
+X_train=bikeshare_train[['temp', 'atemp', 'hum', 'workingday', 'hr','weathersit']]
+X_test=bikeshare_test[['temp', 'atemp', 'hum', 'workingday', 'hr','weathersit']]
+Y_train=bikeshare_train['cnt']
+Y_test=bikeshare_test['cnt']
+
+#X_train.head(5)
+#X_test.head(5)
+
+# 3. Using the `bikeshare_train` dataframe run a regression with `cnt` as our target variable, and `temp`, `atemp`, `hum`, `workingday`, `hour`, `weathersit` as the feature variables. Specify the R^2 value.
+# We'll call this our **training model** The resulting model should have one more coefficient than the number of feature variables.
+lm=LinearRegression()
+lm.fit(X_train,Y_train)
+
+print lm.intercept_
+print lm.coef_
+zip(X_train.columns,lm.coef_)
+print lm.score(X_train,Y_train)
+print lm.score(X_test,Y_test)
+
+
+# 4. Describe the error (in terms of R^2) between the model you just calculated and the **bikeshare_test**. 
+# Is this higher or lower than the R^2 of the previous step? What's the reason for this difference?
+# 5. Create a binary variable for rush hour defined by 6-9am & 4-6pm.
+#((bike.hr[0]>=6)and(bike.hr[0]<=9))
+#bike['IsRush']=(((bike.hr>=6)and(bike.hr<=0))or((bike.hr>=16)and(bike.hr<=18))).astype(int)
+  
+bike['IsRush']=bike['hr'].map(lambda x: 1 if ((x>=6 and x<=9) or (x>=16 and x<=18)) else 0)
+#bike['IsRush']=bike['hr'].apply(lambda x: 1 if ((x>=6 and x<=9) or (x>=16 and x<=18)) else 0,axis=1)
+
+bike['IsRush'].head(50)
+
+

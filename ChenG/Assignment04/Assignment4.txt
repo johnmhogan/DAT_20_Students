@@ -1,0 +1,109 @@
+%matplotlib inline
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+plt.rcParams['figure.figsize'] = (12, 8)
+pd.set_option('display.mpl_style', 'default')
+pd.set_option('display.width',500)
+pd.set_option('display.max_columns',100)
+
+bike=pd.read_csv('../Data/bikeshare.csv',header=0)
+bike=bike.drop('instant',axis=1)
+print "%i Rows and %i Columns" %bike.shape
+bike.head()
+bike.describe()
+
+
+for r in bike.columns:
+    print r,sum(bike[r].isnull())
+
+
+
+plt.hist(bike.season,color='#cccccc')
+
+plt.scatter(bike.temp, bike.registered, lw=0, alpha=.08, color='k')
+
+
+
+
+# Compare different year's rentals
+bike2011monthmean=bike[bike['yr']==0].groupby('mnth').casual.mean()
+bike2011monthmean.name='2011 Month Mean'
+bike2012monthmean=bike[bike['yr']==1].groupby('mnth').casual.mean()
+bike2012monthmean.name='2012 Month Mean'
+print bike2011monthmean
+print bike2012monthmean
+
+plt.plot(bike2011monthmean.index,bike2011monthmean.values,'o-',color='r', lw=3, label='2011 Month Mean')
+plt.plot(bike2011monthmean.index,bike2012monthmean.values,'o-',color='b', lw=3, label='2012 Month Mean')
+plt.xlabel("Month")
+plt.ylabel("Casual and registered")
+plt.legend(frameon=False)
+
+# Compare different year's rentals
+bike2011monthmean=bike[bike['yr']==0].groupby('mnth').cnt.mean()
+bike2011monthmean.name='2011 Month Mean'
+bike2012monthmean=bike[bike['yr']==1].groupby('mnth').cnt.mean()
+bike2012monthmean.name='2012 Month Mean'
+print bike2011monthmean
+print bike2012monthmean
+
+plt.plot(bike2011monthmean.index,bike2011monthmean.values,'o-',color='r', lw=3, label='2011 Month Mean')
+plt.plot(bike2011monthmean.index,bike2012monthmean.values,'o-',color='b', lw=3, label='2012 Month Mean')
+plt.title="Monthl average bikes 2011 vs 2012"
+plt.xlabel("Month")
+plt.ylabel("Casual and registered")
+plt.legend(frameon=False)
+
+bike.cnt.hist(by=bike.season)
+
+
+# Compare casual and registered users
+bikecasmonthmean=bike.groupby('mnth').casual.mean()
+bikecasmonthmean.name='Casual Month Mean'
+bikeregmonthmean=bike.groupby('mnth').registered.mean()
+bikeregmonthmean.name='Registered Month Mean'
+print bikecasmonthmean
+print bikeregmonthmean
+
+plt.plot(bikecasmonthmean.index,bikecasmonthmean.values,'o-',color='r', lw=3, label='Casual Month Mean')
+plt.plot(bikeregmonthmean.index,bikeregmonthmean.values,'o-',color='b', lw=3, label='Registered Month Mean')
+plt.xlabel("Month")
+plt.ylabel("Casual or registered")
+plt.legend(frameon=False)
+
+
+
+
+# finding correlation
+fig, axs = plt.subplots(1, 2)
+bike.plot(kind='scatter', x='temp', y='casual',lw=0,alpha=.08,color='k',ax=axs[0],figsize=(10, 5))
+bike.plot(kind='scatter', x='temp', y='registered', lw=0,alpha=.08,color='k', ax=axs[1],figsize=(10, 5))
+
+fig, axs = plt.subplots(1, 2)
+bike.plot(kind='scatter', x='atemp', y='casual',lw=0,alpha=.08,color='k',ax=axs[0],figsize=(10, 5))
+bike.plot(kind='scatter', x='atemp', y='registered', lw=0,alpha=.08,color='k', ax=axs[1],figsize=(10, 5))
+
+fig, axs = plt.subplots(1, 2)
+bike.plot(kind='scatter', x='hum', y='casual',lw=0,alpha=.08,color='k',ax=axs[0],figsize=(10, 5))
+bike.plot(kind='scatter', x='hum', y='registered', lw=0,alpha=.08,color='k', ax=axs[1],figsize=(10, 5))
+
+fig, axs = plt.subplots(1, 2)
+bike.plot(kind='scatter', x='windspeed', y='casual',lw=0,alpha=.08,color='k',ax=axs[0],figsize=(10, 5))
+bike.plot(kind='scatter', x='windspeed', y='registered', lw=0,alpha=.08,color='k', ax=axs[1],figsize=(10, 5))
+
+
+# create scatter matrix
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+from pandas.tools.plotting import scatter_matrix
+#df = pd.DataFrame(np.random.randn(1000, 4), columns=['a', 'b', 'c', 'd'])
+scatter_matrix(bike, alpha=0.2,figsize=(15, 15), diagonal='kde')
+
+
+
+
+
