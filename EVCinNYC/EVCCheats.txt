@@ -3,7 +3,7 @@ Make sure putting anything you ware working on in
 EVC/GA/Upstream/DAT_20_Students/EVCinNYC/
 
 git status
-git add .
+git add --all .
 git commit -a -m "explain what uploading"
 git push -u origin master
 
@@ -42,8 +42,44 @@ data[(data.runtime<140)&(data.runtime>100)].describe()
 
 
 
+SOME USAGE OF [] vs [[]] vs ()
+# dataFrame[subset]
+# dataFrame[subset][[fields to show as a list/array separated by commas]]
+# dataFrame[(subset filter1) & (subset filter2)] multiple subset parameters
+
+
+
 CLEANING DATA
 
 
 
+GROUPING DATA
+bikedays = data.groupby('dteday')
+sumbikedays = bikedays.sum()
+
+data[['yr','season','weekday','workingday','casual','registered']].groupby(['workingday','yr','season','weekday']).mean()
+
+
 VISUALIZING DATA
+plt.plot(sumbikedays.casual, label="casual")
+plt.plot(sumbikedays.registered, color='r', label="registered")
+
+# visualize the relationship between the features and the response using THREE scatterplots
+fig, axs = plt.subplots(1, 3, sharey=True)
+    #subplots breaks it down into Multiple graphs
+    #subplots (1 row, 3 columns) -- defining canvas (fig); defining axes; if call fig, creates a new canvas
+    #fig is a stateful way to signify which canvas working with
+
+data.plot(kind='scatter', x='TV', y='Sales', ax=axs[0], figsize=(16, 8))
+    # .plot is defined by pandas and passes to matplotlib
+    # if you specify no kind, you'd get 'line'
+    # x is declaring column want to see, describing relationship Sales
+    # using string to index set of observations; matches the column header
+    # ax=axs[0] is first of the subplots (frame areas) areas where you want this
+        # if had 2 rows of 3 columns each (six subplots), then wraps so ax=axs(4) would be left on 2nd row
+data.plot(kind='scatter', x='Radio', y='Sales', ax=axs[1])
+   # don't have to do the figsize each time - the figsize is the WHOLE CANVAS
+data.plot(kind='scatter', x='Newspaper', y='Sales', ax=axs[2])
+
+
+
