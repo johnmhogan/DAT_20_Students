@@ -1,0 +1,621 @@
+id_company,id_funding,vc_backed,City,State,Country,US_vs_Intl,Sector,Amount,Month_Year,Round,Total_Rounds,Total_Amount,Exit
+50070,121599,1,San Francisco,California,United States,1,Internet,0.18,12/1/2009,Seed VC,3,6.72,1
+95372,135475,0,Jerusalem,,Israel,0,Healthcare,0.4,12/1/2009,Seed - II,5,8.85,0
+76656,96844,0,Blue Bell,Pennsylvania,United States,1,Healthcare,0.77,12/1/2009,Seed,3,2.49,0
+74017,91080,0,Bala Cynwyd,Pennsylvania,United States,1,Business Products & Services,0.5,12/1/2009,Seed,2,1.63,0
+28729,28007,1,Palmhurst,Texas,United States,1,Healthcare,,12/1/2009,Seed VC,1,,0
+55686,77882,1,London,,United Kingdom,0,Internet,1,12/1/2009,Seed,2,1,0
+28682,27880,1,San Mateo,California,United States,1,Internet,,12/1/2009,Seed VC,2,6.62,1
+27787,20106,1,Kalamazoo,Michigan,United States,1,Healthcare,0.23,12/1/2009,Seed - III,6,4.87,0
+28692,27899,1,Palo Alto,California,United States,1,Mobile & Telecommunications,1,12/1/2009,Seed VC,2,3,1
+23490,94785,1,Roanoke,Virginia,United States,1,Healthcare,0.53,12/1/2009,Seed,5,0.73,0
+28720,27987,0,Peoria,Illinois,United States,1,Internet,10,12/1/2009,Seed - II,1,10,0
+127632,180963,1,Reston,Virginia,United States,1,Software (non-internet/mobile),,12/1/2009,Seed VC,1,,0
+51465,89648,0,New York,New York,United States,1,Internet,1.21,12/1/2009,Seed,5,2.82,0
+35742,29397,1,Midvale,Utah,United States,1,Healthcare,0.77,12/1/2009,Seed VC,2,0.87,0
+28683,27883,1,Scotts Valley,California,United States,1,Mobile & Telecommunications,0.15,12/1/2009,Seed VC,1,0.15,0
+28795,28213,1,Boulder,Colorado,United States,1,Internet,1.2,12/1/2009,Seed VC,5,5.85,1
+60925,84994,1,New York,New York,United States,1,Internet,0.84,12/1/2009,Seed,4,10.76,0
+28728,28006,1,Waltham,Massachusetts,United States,1,Healthcare,2,12/1/2009,Seed VC,5,45.2,0
+50192,106409,1,San Mateo,California,United States,1,Software (non-internet/mobile),0.5,12/1/2009,Seed,6,26.06,0
+27787,29704,1,Kalamazoo,Michigan,United States,1,Healthcare,1.12,12/1/2009,Seed - II,6,4.87,0
+25005,71446,1,Austin,Texas,United States,1,Automotive & Transportation,0.26,12/1/2009,Seed VC,9,31.7,0
+27837,20170,1,Santa Monica,California,United States,1,Internet,0.6,12/1/2009,Seed VC,1,0.6,0
+1865,28132,1,Palo Alto,California,United States,1,Internet,1.65,12/1/2009,Seed VC - II,6,74.17,0
+52930,181600,1,Munchen,,Austria,0,Internet,,12/1/2009,Seed VC,2,,0
+51225,92836,1,Washington,DC ,United States,1,Leisure,0.83,12/1/2009,Seed,6,47.03,0
+63246,88838,0,New York,New York,United States,1,Business Products & Services,1,12/1/2009,Seed,2,2.5,0
+49741,80841,1,New York,New York,United States,1,Internet,1.34,12/1/2009,Seed VC,7,185.34,0
+11311,28135,1,Palo Alto,California,United States,1,Internet,1.5,12/1/2009,Seed VC,2,2,0
+28746,28058,1,Providence,Rhode Island,United States,1,Healthcare,,12/1/2009,Seed VC,1,,0
+28750,28067,1,San Francisco,California,United States,1,Internet,0.8,12/1/2009,Seed VC,4,17.5,1
+28736,28022,1,Alexandria,Virginia,United States,1,Internet,0.3,12/1/2009,Seed VC,1,0.3,0
+12114,122441,1,Hoboken,New Jersey,United States,1,Internet,0.56,12/1/2009,Seed VC - II,2,0.56,1
+50012,65905,1,Montreal,Quebec,Canada,0,Internet,0.88,12/1/2009,Seed VC,2,2.28,0
+28751,28232,1,Chicago,Illinois,United States,1,Internet,0.15,12/1/2009,Seed VC,2,0.17,0
+4635,27914,1,Palo Alto,California,United States,1,Energy & Utilities,25,12/1/2009,Seed VC,5,675.26,1
+28796,28217,0,,,Israel,0,Internet,3,12/1/2009,Seed,1,3,0
+61402,85825,0,Milpitas,California,United States,1,Consumer Products & Services,0.33,12/1/2009,Seed - II,3,1.97,1
+28706,27956,0,Richfield,Ohio,United States,1,Software (non-internet/mobile),0.25,12/1/2009,Seed VC,1,0.25,0
+50873,98072,1,New York,New York,United States,1,Internet,1.35,12/1/2009,Seed VC,5,32.6,0
+28749,28063,1,Santa Clara,California,United States,1,Mobile & Telecommunications,0.15,12/1/2009,Seed VC,1,0.15,0
+28737,28027,0,Austin,Texas,United States,1,Mobile & Telecommunications,0.4,12/1/2009,Seed,1,0.4,0
+28770,28129,0,Danvers,Massachusetts,United States,1,Internet,,12/1/2009,Seed VC,1,,0
+25325,29198,1,Wooster,Ohio,United States,1,Industrial,0.25,12/1/2009,Seed VC,4,7.25,0
+75576,94594,0,,,United Kingdom,0,Healthcare,1,12/1/2009,Seed VC,2,1.53,0
+93369,131832,1,,,Belgium,0,Industrial,,12/1/2009,Seed VC,2,6.6,0
+52856,133018,1,,,Spain,0,Internet,0.13,12/1/2009,Seed,2,0.13,0
+28565,27539,0,Mount Pleasant,South Carolina,United States,1,Healthcare,0.2,11/1/2009,Seed,2,0.2,0
+58046,119135,1,Nashville,Tennessee,United States,1,Healthcare,0.28,11/1/2009,Seed,4,2.58,0
+28578,27360,0,Mount Pleasant,South Carolina,United States,1,Mobile & Telecommunications,,11/1/2009,Seed,1,,0
+28515,27419,1,San Francisco,California,United States,1,Internet,0.55,11/1/2009,Seed VC,1,0.55,0
+17606,27501,1,Weymouth,Massachusetts,United States,1,Consumer Products & Services,0.55,11/1/2009,Seed,3,4.55,0
+91974,129224,1,,,Germany,0,Industrial,,11/1/2009,Seed,1,,0
+28597,27412,1,Redwood City,California,United States,1,Healthcare,2,11/1/2009,Seed VC,7,129.6,0
+28584,27381,1,Cambridge,Massachusetts,United States,1,Healthcare,1,11/1/2009,Seed VC,1,1,0
+78559,101248,0,,,India,0,Financial,0.5,11/1/2009,Seed,2,5,0
+49915,89737,1,Chapel Hill,North Carolina,United States,1,Healthcare,0.25,11/1/2009,Seed,7,8.67,1
+7687,19851,1,,,Israel,0,Internet,,11/1/2009,Seed,2,,0
+49264,43328,0,Allentown,Pennsylvania,United States,1,Internet,,11/1/2009,Seed VC,2,1.5,0
+9482,27337,1,Boston,Massachusetts,United States,1,Mobile & Telecommunications,0.4,11/1/2009,Seed VC,3,11.51,0
+28618,27467,1,Providence,Rhode Island,United States,1,Internet,0.88,11/1/2009,Seed VC,5,40.38,0
+28608,27439,0,Raleigh,North Carolina,United States,1,Internet,0.13,11/1/2009,Seed VC,4,4.28,0
+28613,75511,1,Boulder,Colorado,United States,1,Mobile & Telecommunications,1.47,11/1/2009,Seed,3,9.81,1
+15706,27463,1,Cambridge,Massachusetts,United States,1,Energy & Utilities,1,11/1/2009,Seed VC - III,5,19.3,1
+80160,105074,0,Nashville,Tennessee,United States,1,Healthcare,2,11/1/2009,Seed,2,7,0
+59651,131791,1,,,Israel,0,Internet,,11/1/2009,Seed,1,,1
+11290,27347,1,San Francisco,California,United States,1,Internet,0.54,11/1/2009,Seed VC,1,0.54,0
+79864,104364,0,Chicago,Illinois,United States,1,Internet,0.54,11/1/2009,Seed,3,2.74,0
+24899,14811,1,San Rafael,California,United States,1,Software (non-internet/mobile),0.49,11/1/2009,Seed VC,1,0.49,0
+16231,104551,1,Richmond,British Columbia,Canada,0,Mobile & Telecommunications,0.19,11/1/2009,Seed VC,7,0.6,1
+28620,27472,0,Washington,DC ,United States,1,Healthcare,1.5,11/1/2009,Seed,1,1.5,0
+28617,27465,0,San Francisco,California,United States,1,Internet,,11/1/2009,Seed VC,1,,0
+28599,27416,0,Ridgefield,Connecticut,United States,1,Consumer Products & Services,,11/1/2009,Seed VC,1,,0
+21444,27378,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.75,11/1/2009,Seed VC,7,77.02,0
+62099,87132,1,Schlieren,,Switzerland,0,Healthcare,,11/1/2009,Seed VC,3,3.9,0
+49263,92683,1,Amsterdam,,Netherlands,0,Mobile & Telecommunications,1.3,11/1/2009,Seed VC,4,19.8,1
+14079,130922,1,Solon,Ohio,United States,1,Industrial,1.13,11/1/2009,Seed,4,5.71,0
+53873,100076,0,New York,New York,United States,1,Internet,0.26,10/1/2009,Seed,6,5.04,0
+14127,84758,1,Atlanta,Georgia,United States,1,Consumer Products & Services,1.34,10/1/2009,Seed VC - II,11,36.27,0
+54509,75946,1,Caesarea,,Israel,0,Healthcare,1,10/1/2009,Seed VC,4,3.6,0
+21451,75385,1,San Francisco,California,United States,1,Internet,1,10/1/2009,Seed VC,7,37.67,0
+79883,123230,1,San Francisco,California,United States,1,Internet,0.2,10/1/2009,Seed,4,30.54,0
+51723,124959,1,Cleveland,Ohio,United States,1,Internet,1.3,10/1/2009,Seed VC - II,5,13.6,0
+28420,23382,1,Solana Beach,California,United States,1,Internet,1.49,10/1/2009,Seed,3,17.49,0
+28459,23485,1,Reston,Virginia,United States,1,Consumer Products & Services,1,10/1/2009,Seed VC,3,3.1,1
+53297,96576,1,,,United Kingdom,0,Internet,,10/1/2009,Seed VC,2,5.5,1
+28680,28202,1,Lexington,Massachusetts,United States,1,Internet,3.5,10/1/2009,Seed VC,3,4.5,0
+75860,95920,1,Vancouver,British Columbia,Canada,0,Mobile & Telecommunications,0.93,10/1/2009,Seed,4,7.95,1
+71430,107292,1,London,,United Kingdom,0,Internet,0.82,10/1/2009,Seed VC,4,7.08,1
+62597,87875,1,San Francisco,California,United States,1,Internet,0.56,10/1/2009,Seed VC,3,5.06,1
+27879,20331,1,,,Germany,0,Internet,,10/1/2009,Seed,2,2,0
+49675,64813,1,Englewood,Colorado,United States,1,Internet,1,10/1/2009,Seed VC,2,2.75,0
+60196,83289,1,Chapel Hill,North Carolina,United States,1,Healthcare,0.25,10/1/2009,Seed,5,2.48,0
+28464,23248,0,Berkeley,California,United States,1,Internet,,10/1/2009,Seed VC,1,,0
+15697,7006,1,New York,New York,United States,1,Internet,0.35,10/1/2009,Seed,4,21.35,0
+28456,23475,1,Pittsburgh,Pennsylvania,United States,1,Healthcare,0.15,10/1/2009,Seed,3,0.25,0
+50547,69972,1,New York,New York,United States,1,Internet,0.1,10/1/2009,Seed VC,4,1.25,0
+28390,23318,0,Atlanta,Georgia,United States,1,Internet,1,10/1/2009,Seed,2,1.65,0
+48837,97360,1,Westport,Connecticut,United States,1,Electronics,,10/1/2009,Seed VC,7,6.32,0
+51455,84500,0,San Diego,California,United States,1,Healthcare,0.25,10/1/2009,Seed VC - II,9,13.9,0
+16623,152677,1,Copenhagen,,Denmark,0,Healthcare,3,10/1/2009,Seed VC,5,29.09,1
+18934,23292,1,Burlington,Massachusetts,United States,1,Healthcare,2.5,10/1/2009,Seed VC,2,2.88,0
+28428,23398,1,Dallas,Texas,United States,1,Internet,,10/1/2009,Seed VC,1,,0
+28674,27855,1,Cambridge,,United Kingdom,0,Healthcare,,10/1/2009,Seed VC,4,38,0
+91470,177992,1,Cambridge,,United Kingdom,0,Electronics,0.63,10/1/2009,Seed VC,5,7.94,0
+53110,108118,1,Mountain View,California,United States,1,Internet,,10/1/2009,Seed VC,3,4.5,1
+86604,118964,1,Cambridge,,United Kingdom,0,Healthcare,7.1,10/1/2009,Seed VC,4,38.42,0
+28458,23483,0,San Francisco,California,United States,1,Consumer Products & Services,0.48,10/1/2009,Seed VC,3,17.48,0
+50841,109469,1,Westborough,Massachusetts,United States,1,Internet,1.01,10/1/2009,Seed,6,277.51,0
+26251,23386,1,Mountain View,California,United States,1,Internet,2,10/1/2009,Seed VC,2,7.5,1
+14323,102951,0,San Francisco,California,United States,1,Food & Beverages,0.8,10/1/2009,Seed,7,12.81,0
+52634,107433,1,San Francisco,California,United States,1,Internet,,10/1/2009,Seed VC,4,117.5,0
+9536,23436,0,Oakland,California,United States,1,Internet,0.25,10/1/2009,Seed VC,2,0.85,0
+22486,23246,1,Pittsburgh,Pennsylvania,United States,1,Software (non-internet/mobile),0.1,10/1/2009,Seed,4,0.43,0
+27449,72959,1,,,Germany,0,Internet,,10/1/2009,Seed,3,31.5,0
+91925,129142,1,,,Germany,0,Automotive & Transportation,0.7,10/1/2009,Seed,1,0.7,0
+20459,65907,1,,,Spain,0,Internet,1.5,10/1/2009,Seed VC - II,2,1.5,0
+28246,23420,1,San Francisco,California,United States,1,Internet,0.75,10/1/2009,Seed VC,2,0.77,1
+28678,27865,1,,,Ireland,0,Business Products & Services,2,10/1/2009,Seed VC,2,2,1
+28461,23238,1,Beverly Hills,California,United States,1,Internet,0.5,10/1/2009,Seed VC,4,7.5,1
+86805,119361,1,Warwick,,United Kingdom,0,Software (non-internet/mobile),0.6,10/1/2009,Seed VC,1,0.6,0
+28449,23450,1,New York,New York,United States,1,Energy & Utilities,,10/1/2009,Seed VC,2,286,0
+76094,95635,1,Menlo Park,California,United States,1,Internet,1,10/1/2009,Seed VC,3,19.4,0
+52752,110636,1,,,Sweden,0,Mobile & Telecommunications,,10/1/2009,Seed VC,3,5.75,0
+28406,23346,1,Sunnyvale,California,United States,1,Internet,0.8,10/1/2009,Seed VC,1,0.8,0
+85230,116314,1,Santa Monica,California,United States,1,Internet,0.16,9/1/2009,Seed,4,20.29,0
+27844,20134,1,Seattle,Washington,United States,1,Internet,0.15,9/1/2009,Seed,1,0.15,0
+27811,19913,1,Kennett Square,Pennsylvania,United States,1,Energy & Utilities,,9/1/2009,Seed VC,2,0.3,0
+24924,19713,0,Cleveland,Ohio,United States,1,Internet,0.2,9/1/2009,Seed - II,4,2.18,0
+10886,20119,0,Greenville,South Carolina,United States,1,Electronics,0.2,9/1/2009,Seed - II,5,1.3,0
+11021,20124,0,Daniel Island,South Carolina,United States,1,Software (non-internet/mobile),0.2,9/1/2009,Seed,4,1.35,0
+27798,19852,1,Providence,Rhode Island,United States,1,,0.25,9/1/2009,Seed,1,0.25,0
+10814,94528,1,Berkeley,California,United States,1,Energy & Utilities,1.22,9/1/2009,Seed VC,5,4.97,0
+49925,86167,1,San Antonio,Texas,United States,1,Healthcare,0.8,9/1/2009,Seed,5,47.18,0
+22189,20121,0,Pendleton,South Carolina,United States,1,Healthcare,0.2,9/1/2009,Seed,6,2.01,0
+24901,14813,1,Durham,North Carolina,United States,1,Consumer Products & Services,0.53,9/1/2009,Seed VC,6,83.93,0
+59521,81645,0,Scottsdale,Arizona,United States,1,Healthcare,0.13,9/1/2009,Seed VC,6,8.98,0
+59529,81657,0,Ontario,California,United States,1,Environmental Services & Equipment,1,9/1/2009,Seed,3,10,0
+59421,89560,1,Draper,Utah,United States,1,Industrial,1,9/1/2009,Seed,6,36.62,1
+27848,20140,1,Los Angeles,California,United States,1,Software (non-internet/mobile),0.66,9/1/2009,Seed VC,1,0.66,0
+65418,90732,1,,,United Kingdom,0,Internet,0.05,9/1/2009,Seed,3,2.65,0
+27719,19814,0,Portland,Maine,United States,1,Internet,1.9,9/1/2009,Seed,3,2.23,0
+81845,109220,0,Fort Worth,Texas,United States,1,Energy & Utilities,0.22,9/1/2009,Seed,4,8.87,0
+74273,91619,0,Portland,Maine,United States,1,Internet,0.07,9/1/2009,Seed,4,0.67,0
+53306,72960,1,,,Germany,0,Internet,,9/1/2009,Seed VC,2,,0
+27814,20181,1,San Mateo,California,United States,1,Internet,1.2,9/1/2009,Seed VC,2,1.22,0
+27787,20105,1,Kalamazoo,Michigan,United States,1,Healthcare,,9/1/2009,Seed,6,4.87,0
+12074,19941,1,San Francisco,California,United States,1,Internet,1,9/1/2009,Seed VC,4,7.3,0
+63577,89474,0,Glasgow,,United Kingdom,0,Internet,0.29,9/1/2009,Seed VC - II,4,1.88,0
+27741,20176,1,New York,New York,United States,1,Mobile & Telecommunications,1.35,9/1/2009,Seed VC,7,162.35,0
+50599,89182,0,New York,New York,United States,1,Energy & Utilities,0.1,9/1/2009,Seed,4,7.33,0
+27739,20174,1,Menlo Park,California,United States,1,Internet,1.25,9/1/2009,Seed VC,1,1.25,0
+27721,20172,1,San Jose,California,United States,1,Internet,0.75,9/1/2009,Seed VC,3,2.77,1
+22191,20120,0,Simpsonville,South Carolina,United States,1,Industrial,0.2,9/1/2009,Seed,1,0.2,0
+50145,117758,1,Towson,Maryland,United States,1,Healthcare,4.16,9/1/2009,Seed VC,3,20.71,0
+52032,94317,0,Irvine,California,United States,1,Internet,1.26,9/1/2009,Seed - II,3,4.43,0
+27840,20097,1,San Jose,California,United States,1,Internet,1,9/1/2009,Seed VC,4,12,0
+96807,138181,0,,Oklahoma,United States,1,Software (non-internet/mobile),,9/1/2009,Seed,1,,0
+80834,106617,1,Pittsburgh,Pennsylvania,United States,1,Software (non-internet/mobile),,9/1/2009,Seed,5,0.65,0
+27745,19850,0,,,United Kingdom,0,,0.1,9/1/2009,Seed,1,0.1,0
+20662,20123,1,Cambridge,,United Kingdom,0,Healthcare,0.2,9/1/2009,Seed,6,16.74,1
+27839,20090,1,Seattle,Washington,United States,1,Internet,0.25,9/1/2009,Seed,4,10.46,1
+27836,19849,0,Vancouver,British Columbia,Canada,0,Internet,0.32,9/1/2009,Seed,1,0.32,0
+20319,20050,1,Jamaica Plain,Massachusetts,United States,1,Healthcare,0.5,9/1/2009,Seed VC,1,0.5,0
+55912,77880,0,Baltimore,Maryland,United States,1,Internet,0.3,9/1/2009,Seed,1,0.3,0
+27735,19845,0,Provo,Utah,United States,1,Internet,2,9/1/2009,Seed,1,2,1
+27808,19854,0,Austin,Texas,United States,1,Internet,1,9/1/2009,Seed VC,1,1,1
+52032,94316,0,Irvine,California,United States,1,Internet,1.26,9/1/2009,Seed,3,4.43,0
+19992,121896,1,Boulder,Colorado,United States,1,Food & Beverages,,9/1/2009,Seed VC,5,15,0
+93829,132707,1,Vienna,,Austria,0,Healthcare,1.3,9/1/2009,Seed,3,15.7,0
+88055,121973,1,Haifa,,Israel,0,Software (non-internet/mobile),0.4,8/1/2009,Seed VC,3,4.8,0
+27445,18798,0,San Francisco,California,United States,1,Internet,1,8/1/2009,Seed,1,1,0
+77852,99697,1,Los Altos Hills,California,United States,1,Industrial,1.2,8/1/2009,Seed VC,3,1.96,0
+63770,89889,0,Chicago,Illinois,United States,1,Mobile & Telecommunications,0.02,8/1/2009,Seed,8,4.05,0
+13453,18961,1,Madison,Wisconsin,United States,1,Healthcare,0.84,8/1/2009,Seed,7,3.46,0
+27535,19102,1,,,South Africa,0,Internet,1.25,8/1/2009,Seed VC,1,1.25,0
+25666,16301,1,Columbus,Ohio,United States,1,Healthcare,0.05,8/1/2009,Seed,2,0.05,0
+227872,177990,1,Kent,,United Kingdom,0,Electronics,1,8/1/2009,Seed VC,2,2.52,0
+27546,19125,0,Lincoln,Nebraska,United States,1,Financial,,8/1/2009,Seed VC,1,,0
+9912,65498,1,,,Israel,0,Software (non-internet/mobile),,8/1/2009,Seed,3,16,0
+63782,89915,0,Philadelphia,Pennsylvania,United States,1,Internet,,8/1/2009,Seed,1,,0
+50446,76827,1,Saratoga Springs,New York,United States,1,Internet,,8/1/2009,Seed VC,5,2.35,0
+51120,90173,1,Lakewood,Colorado,United States,1,Internet,1.35,8/1/2009,Seed - II,7,17.6,0
+28307,22568,1,Pittsburgh,Pennsylvania,United States,1,Internet,0.08,8/1/2009,Seed,5,17.98,0
+24896,102394,1,San Francisco,California,United States,1,Internet,10,8/1/2009,Seed VC,11,170.08,0
+27437,18782,0,,Ontario,Canada,0,,0.02,8/1/2009,Seed,1,0.02,0
+27487,18959,0,London,,United Kingdom,0,Mobile & Telecommunications,0.55,8/1/2009,Seed,3,6.54,0
+76142,95711,1,Burnaby,British Columbia,Canada,0,Electronics,0.95,8/1/2009,Seed VC,6,15.86,0
+27567,19206,1,,,United Kingdom,0,,0.82,8/1/2009,Seed,1,0.82,0
+27532,19097,0,Norcross,Georgia,United States,1,Internet,,8/1/2009,Seed VC,2,,0
+27666,93200,1,Los Angeles,California,United States,1,Healthcare,1,8/1/2009,Seed,7,13.51,0
+27515,19016,1,Minneapolis,Minnesota,United States,1,Internet,1,8/1/2009,Seed VC,3,4.35,0
+46714,138084,0,Oklahoma City,Oklahoma,United States,1,Software (non-internet/mobile),,8/1/2009,Seed,2,3,0
+27486,18958,0,Garrettsville,Ohio,United States,1,Industrial,0.25,8/1/2009,Seed,2,1.9,0
+21534,18982,1,San Francisco,California,United States,1,Internet,2.75,8/1/2009,Seed VC,6,86.85,0
+25628,91100,1,Palo Alto,California,United States,1,Internet,0.04,8/1/2009,Seed VC - II,5,47.54,0
+27501,18984,1,San Francisco,California,United States,1,Internet,2,8/1/2009,Seed VC,5,16,1
+75899,95314,1,,,Ireland,0,Electronics,2.28,8/1/2009,Seed,3,13.09,0
+52882,93087,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.25,8/1/2009,Seed VC,13,5508.74,0
+78338,100696,1,,,United Kingdom,0,Mobile & Telecommunications,,8/1/2009,Seed VC,1,,1
+91553,128447,0,,,Singapore,0,Mobile & Telecommunications,1.03,7/1/2009,Seed,1,1.03,0
+27450,27997,1,Lincoln,Rhode Island,United States,1,Healthcare,5,7/1/2009,Seed,5,10.11,0
+25626,16243,1,Long Beach,California,United States,1,Industrial,,7/1/2009,Seed VC,2,,0
+25628,91085,1,Palo Alto,California,United States,1,Internet,0.5,7/1/2009,Seed VC,5,47.54,0
+51782,70447,0,Providence,Rhode Island,United States,1,Internet,,7/1/2009,Seed,1,,0
+61437,85913,0,Austin,Texas,United States,1,Consumer Products & Services,0.24,7/1/2009,Seed - II,3,3.44,0
+25552,20180,1,Newbury Park,California,United States,1,Internet,0.2,7/1/2009,Seed VC,2,0.68,0
+87166,120012,1,Cincinnati,Ohio,United States,1,Business Products & Services,0.2,7/1/2009,Seed VC,1,0.2,0
+25607,16153,1,Seattle,Washington,United States,1,Internet,0.15,7/1/2009,Seed,1,0.15,0
+4449,91670,0,Kalamazoo,Michigan,United States,1,Healthcare,0.56,7/1/2009,Seed - II,5,1.05,0
+51769,70433,0,East Providence,Rhode Island,United States,1,Industrial,,7/1/2009,Seed,7,9.14,0
+11098,86254,1,Cambridge,Massachusetts,United States,1,Internet,2.3,7/1/2009,Seed VC - II,7,12.66,0
+74266,91602,1,Scottsdale,Arizona,United States,1,Internet,0.7,7/1/2009,Seed,3,9.7,0
+46726,113677,1,New York,New York,United States,1,Internet,1.55,7/1/2009,Seed,6,115.95,0
+51455,84499,0,San Diego,California,United States,1,Healthcare,0.7,7/1/2009,Seed VC,9,13.9,0
+77120,97838,1,Nashville,Tennessee,United States,1,Healthcare,1.25,7/1/2009,Seed,3,7.25,0
+28073,21423,0,,,Canada,0,,0.1,7/1/2009,Seed,1,0.1,0
+10009,100660,1,,,France,0,Mobile & Telecommunications,2.1,7/1/2009,Seed VC - II,6,3.22,0
+51720,70435,0,Providence,Rhode Island,United States,1,Internet,,7/1/2009,Seed,2,1,1
+25620,16196,0,Stillwater,Minnesota,United States,1,Internet,,7/1/2009,Seed,1,,0
+51771,70436,0,Providence,Rhode Island,United States,1,Industrial,,7/1/2009,Seed,1,,0
+28419,81550,0,Pittsfield,Massachusetts,United States,1,Healthcare,1,7/1/2009,Seed VC,10,27.22,0
+101237,146607,1,,,Ukraine,0,Internet,,7/1/2009,Seed VC,1,,0
+25530,15967,0,Tampa,Florida,United States,1,Healthcare,2.2,7/1/2009,Seed VC,1,2.2,0
+25611,16169,0,San Francisco,California,United States,1,Internet,10,7/1/2009,Seed,1,10,0
+2146,18772,1,Vancouver,British Columbia,Canada,0,Internet,0.3,7/1/2009,Seed,3,17.8,0
+646,64945,1,Boise,Idaho,United States,1,Mobile & Telecommunications,2,7/1/2009,Seed VC,5,65.8,0
+51781,70446,0,Providence,Rhode Island,United States,1,Internet,,7/1/2009,Seed,1,,0
+53005,108222,1,London,,United Kingdom,0,Internet,1.31,7/1/2009,Seed VC,3,10.67,1
+63863,90087,0,Park City,Utah,United States,1,Consumer Products & Services,0.08,7/1/2009,Seed,3,1.04,0
+51120,90172,1,Lakewood,Colorado,United States,1,Internet,1.4,7/1/2009,Seed,7,17.6,0
+53512,73278,1,Aurora,Colorado,United States,1,Healthcare,0.8,7/1/2009,Seed VC,1,0.8,0
+63149,88714,1,Edison,New Jersey,United States,1,Electronics,0.1,7/1/2009,Seed,6,44.79,0
+59756,82234,1,Boston,Massachusetts,United States,1,Software (non-internet/mobile),,7/1/2009,Seed,4,9.7,0
+51109,68952,1,Atlanta,Georgia,United States,1,Internet,1.1,7/1/2009,Seed VC,1,1.1,0
+22246,82022,1,New York,New York,United States,1,Internet,0.25,7/1/2009,Seed,5,3.72,1
+50872,69061,1,,,United States,1,Internet,1.25,7/1/2009,Seed VC,1,1.25,0
+25519,15929,0,Austin,Texas,United States,1,Food & Beverages,0.5,7/1/2009,Seed,5,1.55,0
+54660,76240,1,Greenville,South Carolina,United States,1,Internet,0.13,7/1/2009,Seed - III,11,31.43,0
+96376,137395,1,Tel Aviv,,Israel,0,Internet,,7/1/2009,Seed - II,4,4.08,0
+25313,94990,0,Richland,Washington,United States,1,Energy & Utilities,0.12,7/1/2009,Seed,8,77.16,0
+77774,99445,0,Aix En Provence,,France,0,Electronics,2.2,7/1/2009,Seed,4,12.04,0
+51770,70434,0,Providence,Rhode Island,United States,1,Internet,,7/1/2009,Seed,1,,0
+25529,15966,0,Monroe,New Jersey,United States,1,Internet,,7/1/2009,Seed,1,,0
+21146,20182,1,Albuquerque,New Mexico,United States,1,Industrial,,7/1/2009,Seed VC,3,2.29,0
+58160,146619,1,San Francisco,California,United States,1,Internet,,7/1/2009,Seed VC,1,,1
+93164,131490,1,,,Netherlands,0,Healthcare,,7/1/2009,Seed VC,1,,0
+92178,129666,0,,,Germany,0,Internet,,7/1/2009,Seed,1,,0
+57488,136201,1,Export,Pennsylvania,United States,1,Healthcare,0.1,6/1/2009,Seed VC,1,0.1,0
+1865,66348,1,Palo Alto,California,United States,1,Internet,0.02,6/1/2009,Seed,6,74.17,0
+50886,68460,1,New Haven,Connecticut,United States,1,Consumer Products & Services,0.02,6/1/2009,Seed,2,0.02,0
+187509,162534,0,,,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+28229,22172,1,Mountain View,California,United States,1,Internet,1.2,6/1/2009,Seed,3,10.4,0
+50015,65919,1,,New York,United States,1,Internet,0.02,6/1/2009,Seed,2,0.02,0
+126419,162531,0,,,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+49803,162529,0,Palo Alto,California,United States,1,Internet,0.02,6/1/2009,Seed,2,0.1,0
+46704,68751,1,San Francisco,California,United States,1,Internet,0.02,6/1/2009,Seed,5,77.02,0
+187507,162527,0,,,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+187504,162524,1,Palo Alto,California,United States,1,Mobile & Telecommunications,0.02,6/1/2009,Seed,2,0.02,0
+51036,68748,1,San Jose,California,United States,1,Internet,0.02,6/1/2009,Seed,3,10.77,0
+51035,68747,0,Boston,Massachusetts,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,1
+51029,68741,0,,,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+51028,68740,0,,,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+51027,68738,0,Sunnyvale,California,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+28051,21308,1,Mountain View,California,United States,1,Internet,0.02,6/1/2009,Seed,2,3.02,0
+51022,68731,0,,,United States,1,Mobile & Telecommunications,0.02,6/1/2009,Seed,1,0.02,0
+28567,68725,1,San Francisco,California,United States,1,Internet,0.02,6/1/2009,Seed,2,1.32,1
+28006,21092,0,Minneapolis,Minnesota,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+28477,68715,1,San Francisco,California,United States,1,Internet,0.02,6/1/2009,Seed,3,7.02,1
+101424,162518,0,Jersey City,New Jersey,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,1
+50892,93881,1,Burlingame,California,United States,1,Internet,0.02,6/1/2009,Seed,4,10.82,1
+25301,15619,1,Mountain View,California,United States,1,Mobile & Telecommunications,0.02,6/1/2009,Seed,3,19.92,1
+53269,72904,1,New York,New York,United States,1,Mobile & Telecommunications,0.06,6/1/2009,Seed,2,0.56,1
+50885,68458,1,San Francisco,California,United States,1,Internet,,6/1/2009,Seed VC,2,2.05,1
+14091,99277,1,Columbus,Ohio,United States,1,Industrial,0.32,6/1/2009,Seed VC,6,11.68,0
+51628,70191,0,Boulder,Colorado,United States,1,Internet,,6/1/2009,Seed,1,,1
+49696,64920,1,New York,New York,United States,1,Internet,1,6/1/2009,Seed VC,6,19.18,0
+63533,90022,1,Boston,Massachusetts,United States,1,Internet,0.78,6/1/2009,Seed,5,18,0
+51926,70676,0,Pittsburgh,Pennsylvania,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+46661,109283,0,Palo Alto,California,United States,1,Software (non-internet/mobile),0.1,6/1/2009,Seed VC - II,6,2.5,0
+24823,14535,1,Burlington,Massachusetts,United States,1,Internet,2.5,6/1/2009,Seed VC,3,9,0
+28564,70185,1,Boulder,Colorado,United States,1,Internet,,6/1/2009,Seed VC,3,0.75,1
+27641,19455,1,Wayne,Pennsylvania,United States,1,,,6/1/2009,Seed VC,1,,0
+24815,14517,1,Denver,Colorado,United States,1,Internet,,6/1/2009,Seed VC,4,2.82,0
+28790,70188,1,Denver,Colorado,United States,1,Internet,,6/1/2009,Seed,5,47.45,0
+24781,14447,1,Oklahoma City,Oklahoma,United States,1,Healthcare,3.5,6/1/2009,Seed,6,49.29,0
+27845,28039,1,Boulder,Colorado,United States,1,Internet,1,6/1/2009,Seed VC,3,7.95,1
+53038,90168,1,Cambridge,Massachusetts,United States,1,Industrial,0.25,6/1/2009,Seed VC,4,10.09,0
+50123,109949,1,San Francisco,California,United States,1,Internet,0.65,6/1/2009,Seed,6,148.85,0
+49553,70297,0,Washington,DC ,United States,1,Mobile & Telecommunications,0.02,6/1/2009,Seed,1,0.02,1
+51700,70311,0,Philadelphia,Pennsylvania,United States,1,Internet,,6/1/2009,Seed,1,,0
+51697,70306,0,Philadelphia,Pennsylvania,United States,1,Internet,,6/1/2009,Seed,1,,0
+51629,70192,0,Boston,Massachusetts,United States,1,Internet,,6/1/2009,Seed VC,1,,0
+24792,14469,1,New York,New York,United States,1,Internet,0.5,6/1/2009,Seed VC,3,4.6,0
+24814,14511,1,Los Angeles,California,United States,1,Internet,0.5,6/1/2009,Seed,1,0.5,0
+51632,70196,0,New York,New York,United States,1,Internet,,6/1/2009,Seed VC,1,,1
+52842,99400,1,Cambridge,Massachusetts,United States,1,Healthcare,0.5,6/1/2009,Seed,6,50.39,0
+76293,95982,0,Horsham,Pennsylvania,United States,1,Internet,1.06,6/1/2009,Seed,2,1.66,0
+23596,12708,1,New York,New York,United States,1,Internet,0.5,6/1/2009,Seed VC,1,0.5,0
+51767,70431,0,Greenville,South Carolina,United States,1,Healthcare,,6/1/2009,Seed,1,,0
+51922,70672,0,Pittsburgh,Pennsylvania,United States,1,Consumer Products & Services,0.02,6/1/2009,Seed,1,0.02,0
+51625,70186,0,Simi Valley,California,United States,1,Internet,,6/1/2009,Seed VC,1,,0
+51702,70313,0,Boston,Massachusetts,United States,1,Internet,,6/1/2009,Seed,1,,0
+51921,70671,0,Pittsburgh,Pennsylvania,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+51692,70298,0,Washington,DC ,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,1
+51098,81874,1,Palo Alto,California,United States,1,Internet,1.5,6/1/2009,Seed VC,1,1.5,1
+51696,70305,0,San Francisco,California,United States,1,Internet,,6/1/2009,Seed,2,0.09,1
+54397,90623,0,North Andover,Massachusetts,United States,1,Healthcare,0.05,6/1/2009,Seed,8,2.08,0
+51693,70299,0,,,,0,Internet,0.02,6/1/2009,Seed,1,0.02,0
+51183,70308,0,New York,New York,United States,1,Internet,,6/1/2009,Seed,3,0.35,1
+55971,77873,0,,,,0,Internet,0.07,6/1/2009,Seed,1,0.07,0
+59700,146616,1,,,Russian Federation,0,Internet,,6/1/2009,Seed VC,1,,1
+59293,80920,1,Culver City,California,United States,1,Internet,,6/1/2009,Seed VC,1,,1
+51691,70296,0,San Diego,California,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,1
+51631,70195,0,Boston,Massachusetts,United States,1,Internet,,6/1/2009,Seed VC,1,,0
+51626,70187,0,,,,0,Internet,,6/1/2009,Seed VC,1,,0
+51517,70193,1,Mountain View,California,United States,1,Internet,,6/1/2009,Seed VC,4,0.43,0
+51919,70669,0,Pittsburgh,Pennsylvania,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+1894,91788,1,Rotherham,,United Kingdom,0,Consumer Products & Services,1.51,6/1/2009,Seed VC,3,22.05,1
+28795,70190,1,Boulder,Colorado,United States,1,Internet,,6/1/2009,Seed,5,5.85,1
+21469,10236,1,Menlo Park,California,United States,1,Internet,0.5,6/1/2009,Seed VC - II,3,3.9,1
+51920,70670,0,Pittsburgh,Pennsylvania,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+24835,39812,0,Pasadena,California,United States,1,Internet,1,6/1/2009,Seed VC,2,3.5,0
+51765,70429,0,Greenville,South Carolina,United States,1,Internet,,6/1/2009,Seed,1,,0
+28630,27540,1,Chicago,Illinois,United States,1,Software (non-internet/mobile),1,6/1/2009,Seed VC,1,1,1
+51695,70303,0,Bethesda,Maryland,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+24463,14455,0,Lebanon,New Hampshire,United States,1,Healthcare,0.25,6/1/2009,Seed VC,2,0.58,0
+62084,165767,1,New York,New York,United States,1,Internet,2,6/1/2009,Seed VC,6,98,0
+93486,132076,1,,,Australia,0,Healthcare,,6/1/2009,Seed VC,2,,0
+51627,70189,0,Boulder,Colorado,United States,1,Internet,,6/1/2009,Seed VC,1,,0
+51766,70430,0,Greenville,South Carolina,United States,1,Mobile & Telecommunications,,6/1/2009,Seed,1,,0
+56194,78712,0,Seattle,Washington,United States,1,Energy & Utilities,1,6/1/2009,Seed VC,4,3.1,0
+51703,70314,0,Philadelphia,Pennsylvania,United States,1,Internet,,6/1/2009,Seed,1,,0
+51699,70310,0,Philadelphia,Pennsylvania,United States,1,Internet,,6/1/2009,Seed,1,,0
+24808,14502,1,Los Angeles,California,United States,1,Internet,1,6/1/2009,Seed VC,2,3,0
+52021,90128,1,New York,New York,United States,1,Consumer Products & Services,3,6/1/2009,Seed VC,6,36.96,0
+51690,70295,0,New York,New York,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+51925,70675,0,Louisville,Kentucky,United States,1,Internet,0.02,6/1/2009,Seed,1,0.02,0
+24778,14438,1,Inglewood,California,United States,1,Industrial,0.55,6/1/2009,Seed,1,0.55,0
+35761,70309,1,New York,New York,United States,1,Internet,,6/1/2009,Seed,10,103.15,0
+63688,89735,0,Wayzata,Minnesota,United States,1,Energy & Utilities,0.19,6/1/2009,Seed,3,2.73,0
+51630,70194,0,Boston,Massachusetts,United States,1,Internet,,6/1/2009,Seed VC,1,,0
+51698,70307,1,New York,New York,United States,1,Internet,,6/1/2009,Seed,4,6.03,1
+59528,81655,1,Minneapolis,Minnesota,United States,1,Internet,0.63,6/1/2009,Seed,6,42.51,0
+62267,87398,0,Los Angeles,California,United States,1,Business Products & Services,0.06,6/1/2009,Seed,2,0.31,0
+24779,14444,1,Cincinnati,Ohio,United States,1,Software (non-internet/mobile),0.35,6/1/2009,Seed VC,1,0.35,0
+25003,15053,0,Tallmadge,Ohio,United States,1,Automotive & Transportation,0.25,6/1/2009,Seed,1,0.25,0
+24502,76654,1,San Francisco,California,United States,1,Internet,3,6/1/2009,Seed - II,7,51.4,0
+51694,70302,0,Washington,DC ,United States,1,Mobile & Telecommunications,0.02,6/1/2009,Seed,1,0.02,0
+49962,98159,1,San Francisco,California,United States,1,Computer Hardware & Services,,6/1/2009,Seed VC,2,9,1
+51701,70312,0,New York,New York,United States,1,Internet,,6/1/2009,Seed,1,,0
+12716,14450,1,Oxon,,United Kingdom,0,Healthcare,1,6/1/2009,Seed,6,17.07,0
+51633,70197,0,Boston,Massachusetts,United States,1,Internet,,6/1/2009,Seed VC,1,,0
+23608,12748,1,Stanford,California,United States,1,Mobile & Telecommunications,1,6/1/2009,Seed VC,1,1,1
+52138,113997,1,Scottsdale,Arizona,United States,1,Energy & Utilities,1,5/1/2009,Seed VC,4,70.33,0
+21455,10147,1,,,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+21358,9948,0,New Orleans,Louisiana,United States,1,Leisure,,5/1/2009,Seed,1,,0
+27829,75668,1,Boulder,Colorado,United States,1,Internet,0.85,5/1/2009,Seed VC,6,20.17,0
+21448,10139,1,San Jose,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+51943,70694,1,Atlanta,Georgia,United States,1,Mobile & Telecommunications,,5/1/2009,Seed,2,,1
+78202,100314,1,Boulder,Colorado,United States,1,Consumer Products & Services,0.25,5/1/2009,Seed VC,7,5.33,0
+21391,10011,1,Longmont,Colorado,United States,1,Electronics,0.52,5/1/2009,Seed,6,4.22,0
+28596,89804,1,Austin,Texas,United States,1,Healthcare,0.5,5/1/2009,Seed VC,13,29.73,0
+21392,10012,1,,,Israel,0,Mobile & Telecommunications,1.5,5/1/2009,Seed,5,15.4,0
+21445,10136,1,Northridge,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+50124,107523,1,Boston,Massachusetts,United States,1,Internet,0.53,5/1/2009,Seed VC,3,3.83,0
+21322,9908,0,Ypsilanti,Michigan,United States,1,Retail (non-internet/mobile),0.14,5/1/2009,Seed,1,0.14,0
+21449,10140,1,,,China,0,Internet,0.02,5/1/2009,Seed,1,0.02,0
+21446,10137,1,San Francisco,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+24783,14449,1,Irvine,California,United States,1,Healthcare,0.86,5/1/2009,Seed VC,4,40.74,0
+21320,9905,0,Ann Arbor,Michigan,United States,1,Healthcare,0.25,5/1/2009,Seed,1,0.25,0
+21454,10146,1,,,Switzerland,0,Internet,0.02,5/1/2009,Seed,1,0.02,0
+51944,70695,0,Atlanta,Georgia,United States,1,Internet,,5/1/2009,Seed,1,,0
+59069,80296,0,San Francisco,California,United States,1,Internet,,5/1/2009,Seed,1,,1
+21456,10148,1,Oakland,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+75759,94938,0,Princeton,New Jersey,United States,1,Healthcare,0.83,5/1/2009,Seed,4,1.78,0
+25470,15860,1,Ann Arbor,Michigan,United States,1,Mobile & Telecommunications,0.01,5/1/2009,Seed VC,1,0.01,0
+27914,66005,1,London,,United Kingdom,0,Internet,2.6,5/1/2009,Seed - II,5,16.44,0
+21453,10145,1,Seattle,Washington,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+21440,10131,1,Eastsound,Washington,United States,1,Internet,0.5,5/1/2009,Seed VC,1,0.5,1
+50959,76265,1,Milpitas,California,United States,1,Computer Hardware & Services,9.1,5/1/2009,Seed VC,6,89.1,0
+21418,10206,0,San Diego,California,United States,1,Internet,0.8,5/1/2009,Seed,1,0.8,0
+21357,9947,1,,,Finland,0,Healthcare,2.75,5/1/2009,Seed,1,2.75,0
+52126,93701,1,Newark,California,United States,1,Healthcare,0.8,5/1/2009,Seed VC,4,20.22,0
+21416,10092,1,Los Angeles,California,United States,1,Mobile & Telecommunications,1,5/1/2009,Seed VC,1,1,0
+17422,9994,1,Devon,Pennsylvania,United States,1,Internet,,5/1/2009,Seed VC,1,,0
+21462,10216,1,London,,United Kingdom,0,Internet,1.81,5/1/2009,Seed VC,5,16.07,0
+21442,10133,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.02,5/1/2009,Seed,1,0.02,0
+21452,10144,1,,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+21382,9993,0,Ann Arbor,Michigan,United States,1,Energy & Utilities,0.2,5/1/2009,Seed,1,0.2,0
+21444,10135,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.02,5/1/2009,Seed,7,77.02,0
+28470,23269,1,Cambridge,Massachusetts,United States,1,Internet,1.2,5/1/2009,Seed VC,3,19.2,1
+10608,77397,1,,,Philippines,0,Computer Hardware & Services,2,5/1/2009,Seed,1,2,0
+51939,70690,0,Chicago,Illinois,United States,1,Internet,,5/1/2009,Seed,1,,0
+12544,9900,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.75,5/1/2009,Seed VC,4,8.08,0
+51938,70689,0,Atlanta,Georgia,United States,1,Internet,,5/1/2009,Seed,1,,1
+51934,70685,0,,British Columbia,Canada,0,Internet,,5/1/2009,Seed,1,,0
+24681,65782,1,Miami,Florida,United States,1,Mobile & Telecommunications,0.1,5/1/2009,Seed VC,3,0.95,0
+21457,10149,1,Palo Alto,California,United States,1,Internet,0.02,5/1/2009,Seed,2,0.82,0
+21458,10151,1,Seattle,Washington,United States,1,Financial,0.02,5/1/2009,Seed,3,0.77,0
+27814,19855,1,San Mateo,California,United States,1,Internet,0.02,5/1/2009,Seed,2,1.22,0
+21450,10141,1,,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+16155,9817,1,Montreal,Quebec,Canada,0,Healthcare,2.2,5/1/2009,Seed VC,3,16.2,0
+21447,10138,1,Houston,Texas,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,1
+9445,10091,1,Bellevue,Washington,United States,1,Software (non-internet/mobile),2,5/1/2009,Seed VC,5,3.94,1
+25101,82095,1,Morristown,New Jersey,United States,1,Business Products & Services,1.06,5/1/2009,Seed VC,2,1.26,0
+78591,101341,0,Mesa,Arizona,United States,1,Healthcare,0.28,5/1/2009,Seed,8,202.22,0
+27488,18960,1,San Francisco,California,United States,1,Mobile & Telecommunications,1,5/1/2009,Seed VC,3,7.7,0
+21451,10143,1,San Francisco,California,United States,1,Internet,0.02,5/1/2009,Seed,7,37.67,0
+21443,10134,1,Seattle,Washington,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,0
+21321,9906,0,Ann Arbor,Michigan,United States,1,Internet,0.22,5/1/2009,Seed,1,0.22,0
+51935,70686,0,,British Columbia,Canada,0,Internet,,5/1/2009,Seed,1,,0
+12342,14748,1,New York,New York,United States,1,Internet,1.2,5/1/2009,Seed VC,1,1.2,0
+51945,70696,1,San Francisco,California,United States,1,Internet,,5/1/2009,Seed,4,4,0
+51942,70693,0,Atlanta,Georgia,United States,1,Internet,,5/1/2009,Seed,1,,0
+21354,9945,0,Corvallis,Oregon,United States,1,Software (non-internet/mobile),0.12,5/1/2009,Seed,1,0.12,0
+4570,10142,1,San Francisco,California,United States,1,Internet,0.02,5/1/2009,Seed,1,0.02,1
+51941,70692,0,Seattle,Washington,United States,1,Internet,,5/1/2009,Seed,1,,0
+21319,9904,0,Cambridge,Massachusetts,United States,1,Software (non-internet/mobile),0.1,5/1/2009,Seed,2,0.2,1
+51940,70691,0,Philadelphia,Pennsylvania,United States,1,Internet,,5/1/2009,Seed,1,,0
+51933,70684,0,,British Columbia,Canada,0,Computer Hardware & Services,,5/1/2009,Seed,1,,1
+58543,79709,1,Toronto,Ontario,Canada,0,Internet,0.6,5/1/2009,Seed,5,12.09,0
+28026,21207,1,Zurich,,Switzerland,0,Internet,,5/1/2009,Seed,5,45.5,0
+92277,129834,1,,,Netherlands,0,Internet,0.4,4/1/2009,Seed VC,2,0.4,0
+24811,14508,1,,,Germany,0,Internet,0.75,4/1/2009,Seed,1,0.75,0
+15706,15059,1,Cambridge,Massachusetts,United States,1,Energy & Utilities,0.7,4/1/2009,Seed VC,5,19.3,1
+17431,9417,1,Cambridge,Massachusetts,United States,1,Healthcare,,4/1/2009,Seed,4,19.25,0
+25321,15657,1,,California,United States,1,Internet,,4/1/2009,Seed VC,1,,0
+17485,9452,0,Richmond,Virginia,United States,1,Internet,,4/1/2009,Seed,1,,0
+17241,9293,0,Buffalo,New York,United States,1,Internet,0.02,4/1/2009,Seed,1,0.02,0
+24812,14509,1,Vanves,,France,0,Internet,0.8,4/1/2009,Seed,3,3.35,0
+24810,14505,1,Towson,Maryland,United States,1,Computer Hardware & Services,0.38,4/1/2009,Seed VC,1,0.38,0
+63405,89074,1,London,,United Kingdom,0,Healthcare,2.33,4/1/2009,Seed VC,2,3.33,0
+186766,161580,1,Dusseldorf,,Germany,0,Healthcare,,4/1/2009,Seed VC,2,,1
+49676,94755,1,Redwood City,California,United States,1,Mobile & Telecommunications,0.38,4/1/2009,Seed VC,5,29.88,0
+17479,9446,0,Provo,Utah,United States,1,Industrial,,4/1/2009,Seed,1,,0
+17500,9469,0,New York,New York,United States,1,Internet,,4/1/2009,Seed,1,,1
+17385,9298,0,Philadelphia,Pennsylvania,United States,1,Healthcare,,4/1/2009,Seed,1,,0
+17484,9451,0,Richmond,Virginia,United States,1,Internet,,4/1/2009,Seed,1,,0
+1574,9465,1,Pittsburgh,Pennsylvania,United States,1,Mobile & Telecommunications,1.35,4/1/2009,Seed,1,1.35,0
+24834,14564,1,Newton,Massachusetts,United States,1,Internet,2.5,4/1/2009,Seed VC,7,44.7,0
+17494,14479,1,London,,United Kingdom,0,Internet,0.23,4/1/2009,Seed VC,1,0.23,0
+12354,9397,1,London,,United Kingdom,0,Internet,0.21,4/1/2009,Seed,2,2.51,0
+17455,9422,0,Frenso,California,United States,1,Leisure,0.02,4/1/2009,Seed,1,0.02,0
+17383,9296,0,,,Canada,0,Healthcare,0.02,4/1/2009,Seed,1,0.02,0
+17501,9470,1,San Francisco,California,United States,1,Internet,1,4/1/2009,Seed VC,3,1,1
+17508,9482,0,State College,Pennsylvania,United States,1,Industrial,0.75,4/1/2009,Seed,1,0.75,0
+16974,9511,1,,,Germany,0,Mobile & Telecommunications,,4/1/2009,Seed,2,2.8,1
+13312,9205,0,Franklin,Michigan,United States,1,Internet,0.5,4/1/2009,Seed,3,1.55,0
+17459,9426,0,,Nevada,United States,1,Healthcare,0.02,4/1/2009,Seed,1,0.02,0
+17240,9292,0,New York,New York,United States,1,Internet,,4/1/2009,Seed,1,,0
+17432,9418,0,Boston,Massachusetts,United States,1,Financial,,4/1/2009,Seed,1,,0
+24813,14510,1,,,United Kingdom,0,Internet,0.02,4/1/2009,Seed,1,0.02,0
+17480,9447,1,Provo,Utah,United States,1,Industrial,,4/1/2009,Seed,2,23,0
+17474,9441,0,Charlotte,North Carolina,United States,1,Internet,,4/1/2009,Seed,1,,0
+17482,9449,0,Richmond,Virginia,United States,1,Consumer Products & Services,,4/1/2009,Seed,1,,0
+24807,14501,1,,,Finland,0,Internet,0.1,4/1/2009,Seed,1,0.1,0
+17463,9430,0,Birmingham,Alabama ,United States,1,Leisure,,4/1/2009,Seed VC,1,,0
+27895,69649,1,San Francisco,California,United States,1,Internet,0.6,4/1/2009,Seed VC,7,794.82,0
+17242,9294,0,Buffalo,New York,United States,1,Risk & Security,0.01,4/1/2009,Seed,1,0.01,0
+24806,14500,1,Salt Lake City,Utah,United States,1,Healthcare,1.3,4/1/2009,Seed,5,6.2,0
+15003,90527,0,New York,New York,United States,1,Internet,0.5,4/1/2009,Seed - II,9,13.1,0
+11100,81582,1,San Francisco,California,United States,1,Internet,2.5,4/1/2009,Seed VC - II,8,98.8,0
+15545,14903,1,Seattle,Washington,United States,1,Internet,0.6,4/1/2009,Seed VC,5,2.8,0
+17386,9299,0,Philadelphia,Pennsylvania,United States,1,Consumer Products & Services,,4/1/2009,Seed,1,,0
+24809,14504,1,San Jose,California,United States,1,Internet,0.12,4/1/2009,Seed VC,1,0.12,0
+17471,9438,0,Knoxville,Tennessee,United States,1,Automotive & Transportation,,4/1/2009,Seed,2,,0
+17433,9419,0,Boston,Massachusetts,United States,1,Food & Beverages,,4/1/2009,Seed,2,,0
+17387,9300,0,Philadelphia,Pennsylvania,United States,1,Internet,,4/1/2009,Seed VC,1,,0
+50381,99759,1,Cambridge,Massachusetts,United States,1,Healthcare,3.25,4/1/2009,Seed VC - II,7,75.29,0
+51875,152280,1,,,Ireland,0,Automotive & Transportation,4.5,4/1/2009,Seed,2,10.1,0
+94327,133619,1,,,France,0,Internet,,4/1/2009,Seed VC,1,,0
+99155,142476,1,Mumbai,,India,0,Internet,,4/1/2009,Seed VC,1,,0
+22965,145214,1,Philadelphia,Pennsylvania,United States,1,Food & Beverages,1.02,3/1/2009,Seed,4,9.89,0
+49709,64951,1,San Francisco,California,United States,1,Internet,1.1,3/1/2009,Seed VC,2,3.1,0
+20521,131408,1,Brussels,,Belgium,0,Internet,1,3/1/2009,Seed VC - II,3,6,0
+14867,5817,1,Chicago,Illinois,United States,1,Internet,,3/1/2009,Seed VC,1,,0
+24393,14816,1,Arlington,Texas,United States,1,Electronics,2.2,3/1/2009,Seed VC,1,2.2,0
+11235,14891,1,San Francisco,California,United States,1,Mobile & Telecommunications,1.25,3/1/2009,Seed VC,2,1.71,0
+13606,5317,1,Cincinnati,Ohio,United States,1,Software (non-internet/mobile),0.33,3/1/2009,Seed VC,1,0.33,0
+15536,6651,1,Willoughby,Ohio,United States,1,Healthcare,0.38,3/1/2009,Seed VC,8,16.78,0
+28251,22303,0,,,,0,,0.25,3/1/2009,Seed,1,0.25,0
+16012,13954,0,Seattle,Washington,United States,1,Internet,,3/1/2009,Seed,3,,0
+13605,5316,1,Cincinnati,Ohio,United States,1,Healthcare,1.25,3/1/2009,Seed VC,4,3.39,0
+14935,5906,1,Bethany,Connecticut,United States,1,Healthcare,0.15,3/1/2009,Seed VC,1,0.15,0
+73939,106276,1,Boulder,Colorado,United States,1,Food & Beverages,2,3/1/2009,Seed VC,3,9,1
+64193,90634,1,El Cerrito,California,United States,1,Software (non-internet/mobile),0.05,3/1/2009,Seed,5,9.88,0
+28333,22709,1,,,,0,,5.01,3/1/2009,Seed,1,5.01,0
+61402,85824,0,Milpitas,California,United States,1,Consumer Products & Services,0.1,3/1/2009,Seed,3,1.97,1
+46661,109282,0,Palo Alto,California,United States,1,Software (non-internet/mobile),1,3/1/2009,Seed VC,6,2.5,0
+25967,21850,1,Doylestown,Pennsylvania,United States,1,Healthcare,0.55,3/1/2009,Seed,6,40.05,0
+63416,89104,1,Palo Alto,California,United States,1,Mobile & Telecommunications,0.25,3/1/2009,Seed VC,1,0.25,1
+14936,5907,1,Greenwich,Connecticut,United States,1,Industrial,,3/1/2009,Seed VC - II,2,0.48,0
+24900,14812,1,Sausalito,California,United States,1,Consumer Products & Services,0.75,3/1/2009,Seed VC,3,5.48,0
+14889,5845,0,Exton,Pennsylvania,United States,1,Business Products & Services,0.15,3/1/2009,Seed VC,2,0.17,0
+24897,14809,1,San Clemente,California,United States,1,Healthcare,1.5,3/1/2009,Seed,1,1.5,0
+19956,94201,1,Kent,,United Kingdom,0,Healthcare,0.5,3/1/2009,Seed,12,15.48,0
+14937,9531,1,New Haven,Connecticut,United States,1,Healthcare,0.96,3/1/2009,Seed VC - II,3,4.06,0
+14828,5725,1,Palo Alto,California,United States,1,Healthcare,,3/1/2009,Seed VC,1,,1
+60169,83220,1,Boulder,Colorado,United States,1,Computer Hardware & Services,0.64,3/1/2009,Seed,6,56.43,0
+13600,27871,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.6,3/1/2009,Seed VC,7,109.65,0
+81179,107591,1,Boston,Massachusetts,United States,1,Mobile & Telecommunications,,3/1/2009,Seed VC,2,5.5,0
+91932,129151,1,,,Germany,0,Healthcare,,3/1/2009,Seed,1,,0
+28010,21105,1,Libourne,,France,0,Industrial,2.87,3/1/2009,Seed,3,26.29,1
+13599,97183,1,Longmont,Colorado,United States,1,Electronics,,3/1/2009,Seed VC,8,44.89,0
+24675,87567,1,New York,New York,United States,1,Mobile & Telecommunications,0.2,3/1/2009,Seed,6,10.37,0
+14928,5898,1,San Diego,California,United States,1,Consumer Products & Services,,3/1/2009,Seed VC,6,59.5,0
+59602,81825,1,Brooklyn,New York,United States,1,Computer Hardware & Services,0.75,3/1/2009,Seed VC,2,13.75,1
+61437,85912,0,Austin,Texas,United States,1,Consumer Products & Services,0.2,3/1/2009,Seed,3,3.44,0
+50898,77300,1,New York,New York,United States,1,Internet,0.35,3/1/2009,Seed VC,2,2.35,0
+49798,143058,1,Palo Alto,California,United States,1,Internet,,3/1/2009,Seed VC,2,,0
+24923,14887,1,Cary,North Carolina,United States,1,Internet,,3/1/2009,Seed VC,1,,0
+50868,69062,1,Hollywood,California,United States,1,Internet,0.5,3/1/2009,Seed VC,4,9.2,1
+15508,6611,0,,,Argentina,0,Internet,0.6,3/1/2009,Seed,1,0.6,0
+15527,6641,1,North Brunswick,New Jersey,United States,1,Healthcare,0.5,3/1/2009,Seed VC,4,1.7,0
+14938,5909,1,Dunnellon,Florida,United States,1,Consumer Products & Services,,3/1/2009,Seed VC,1,,0
+49984,83199,1,Menlo Park,California,United States,1,Healthcare,1.5,3/1/2009,Seed VC,5,39.5,0
+90810,126882,1,Kleinmachnow,,Germany,0,Healthcare,,3/1/2009,Seed VC,3,8.24,0
+228817,179725,1,San Mateo,California,United States,1,Mobile & Telecommunications,,3/1/2009,Seed VC,1,,0
+60091,138897,1,San Francisco,California,United States,1,Internet,,3/1/2009,Seed,4,47.8,1
+27674,19667,1,Natick,Massachusetts,United States,1,Internet,1.4,2/1/2009,Seed VC,6,15.83,1
+28134,21701,1,Wismar,,Germany,0,Healthcare,0.64,2/1/2009,Seed,3,3.3,0
+28280,77273,0,Cleveland,Ohio,United States,1,Financial,0.5,2/1/2009,Seed VC,6,9.06,0
+16757,18962,1,London,,United Kingdom,0,Internet,3.15,2/1/2009,Seed,4,19,1
+13285,107539,1,Berkeley,California,United States,1,Industrial,4.5,2/1/2009,Seed VC,2,4.5,0
+24903,14815,1,Menlo Park,California,United States,1,Industrial,0.2,2/1/2009,Seed VC,6,80.86,0
+21437,10128,1,,,,0,Internet,0.5,2/1/2009,Seed VC,1,0.5,0
+125980,186401,1,London,,United Kingdom,0,Mobile & Telecommunications,0.39,2/1/2009,Seed VC,2,1.9,0
+16762,28196,1,London,,United Kingdom,0,Internet,1,2/1/2009,Seed,5,23,0
+50904,68518,1,Palo Alto,California,United States,1,Internet,,2/1/2009,Seed VC,3,5,0
+75687,94820,0,Indianapolis,Indiana,United States,1,Internet,0.19,2/1/2009,Seed,3,1.66,0
+50902,68516,1,San Francisco,California,United States,1,Internet,,2/1/2009,Seed VC,1,,1
+28249,22291,1,,,Spain,0,,1.16,2/1/2009,Seed,1,1.16,0
+24931,14899,1,Coconut Creek,Florida,United States,1,Financial,2,2/1/2009,Seed VC,1,2,0
+13494,20910,1,Sunnyvale,California,United States,1,Internet,2,2/1/2009,Seed VC,3,4,1
+4847,80762,1,San Francisco,California,United States,1,Internet,1.25,2/1/2009,Seed VC - II,5,20.8,1
+50641,103099,1,Mountain View,California,United States,1,Software (non-internet/mobile),1,2/1/2009,Seed VC,3,37.6,0
+25825,69523,1,Mountain View,California,United States,1,Internet,1.7,2/1/2009,Seed VC,3,39.9,1
+16899,8898,1,,,,0,Internet,0.35,2/1/2009,Seed,1,0.35,0
+26745,20695,1,Redwood City,California,United States,1,Business Products & Services,1.2,2/1/2009,Seed VC,2,8.2,0
+36177,68947,1,San Francisco,California,United States,1,Internet,0.75,2/1/2009,Seed VC,2,5.75,1
+24936,14909,1,San Diego,California,United States,1,Healthcare,1.26,2/1/2009,Seed VC,2,1.56,0
+55779,77875,0,,,France,0,Mobile & Telecommunications,0.42,2/1/2009,Seed,1,0.42,1
+28308,22569,1,Glendale,California,United States,1,,,2/1/2009,Seed VC,1,,0
+13290,8307,1,Seattle,Washington,United States,1,Internet,0.25,2/1/2009,Seed,1,0.25,0
+28255,22319,0,,,Croatia,0,Internet,0.45,2/1/2009,Seed,2,1.65,0
+14892,21549,0,Philadelphia,Pennsylvania,United States,1,Consumer Products & Services,0.08,2/1/2009,Seed,2,0.16,0
+24924,19712,0,Cleveland,Ohio,United States,1,Internet,0.28,2/1/2009,Seed,4,2.18,0
+50846,68499,1,San Francisco,California,United States,1,Internet,2.05,2/1/2009,Seed VC,4,51.05,1
+13545,5200,0,New York,New York,United States,1,Internet,0.5,2/1/2009,Seed VC,1,0.5,1
+63883,90157,0,Austin,Texas,United States,1,Internet,0.1,2/1/2009,Seed,1,0.1,0
+25302,15620,1,New York,New York,United States,1,Internet,2,2/1/2009,Seed VC,3,2.55,1
+24940,14913,1,Santa Fe,New Mexico,United States,1,Electronics,1,2/1/2009,Seed VC,1,1,0
+96757,138111,0,,Oklahoma,United States,1,Internet,0.1,1/1/2009,Seed,1,0.1,0
+9309,125850,1,Cambridge,Massachusetts,United States,1,Internet,,1/1/2009,Seed VC,2,0.07,1
+59699,146620,1,,,Japan,0,Internet,,1/1/2009,Seed VC,1,,1
+95372,135476,0,Jerusalem,,Israel,0,Healthcare,0.5,1/1/2009,Seed,5,8.85,0
+17179,9214,0,Princeton,New Jersey,United States,1,Energy & Utilities,0.02,1/1/2009,Seed,1,0.02,0
+51062,68778,0,Mountain View,California,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+35773,68773,1,Palo Alto,California,United States,1,Mobile & Telecommunications,0.02,1/1/2009,Seed,3,1.52,0
+51053,68767,0,,,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+28226,22157,0,,California,United States,1,Mobile & Telecommunications,0.02,1/1/2009,Seed,1,0.02,1
+51048,68764,0,,,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+51045,68761,0,San Francisco,California,United States,1,Mobile & Telecommunications,0.02,1/1/2009,Seed,1,0.02,0
+51039,68753,0,,,United States,1,Mobile & Telecommunications,0.02,1/1/2009,Seed,1,0.02,0
+12544,56884,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.02,1/1/2009,Seed,4,8.08,0
+51017,68726,0,,,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+27984,20985,0,,,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,1
+50926,68717,0,San Francisco,California,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,1
+27721,20819,1,San Jose,California,United States,1,Internet,0.02,1/1/2009,Seed,3,2.77,1
+27895,20437,1,San Francisco,California,United States,1,Internet,0.02,1/1/2009,Seed,7,794.82,0
+51065,68782,0,San Francisco,California,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+61358,85721,0,,,Germany,0,Internet,,1/1/2009,Seed,3,4.4,0
+13267,4729,1,Montreal,Quebec,Canada,0,Internet,,1/1/2009,Seed,1,,0
+51917,70667,0,Pittsburgh,Pennsylvania,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+28106,21567,0,,,,0,,0.18,1/1/2009,Seed,1,0.18,0
+86832,119420,1,Seattle,Washington,United States,1,Software (non-internet/mobile),1.4,1/1/2009,Seed VC,1,1.4,0
+12562,4491,1,Austin,Texas,United States,1,Internet,,1/1/2009,Seed VC,2,3.5,0
+13259,4710,1,Columbus,Ohio,United States,1,Internet,0.5,1/1/2009,Seed,1,0.5,0
+2029,90092,0,Honolulu,Hawaii,United States,1,Energy & Utilities,1.27,1/1/2009,Seed VC,10,4.03,0
+51932,70683,0,,British Columbia,Canada,0,Leisure,,1/1/2009,Seed,1,,0
+27937,20700,1,Pittsburgh,Pennsylvania,United States,1,,0.02,1/1/2009,Seed,1,0.02,0
+16025,7488,1,Monroe,Michigan,United States,1,Industrial,,1/1/2009,Seed VC,2,2.41,0
+295,70682,0,Vancouver,British Columbia,Canada,0,Internet,,1/1/2009,Seed,1,,0
+12884,109762,1,,,United Kingdom,0,Internet,,1/1/2009,Seed VC,2,4,0
+8344,20869,0,Toronto,Ontario,Canada,0,Internet,1,1/1/2009,Seed,3,1,1
+77784,99458,0,Broomfield,Colorado,United States,1,Internet,0.36,1/1/2009,Seed,2,1.16,0
+50316,96802,1,San Francisco,California,United States,1,Mobile & Telecommunications,0.35,1/1/2009,Seed,5,32.8,1
+13263,4714,1,Midland,Michigan,United States,1,Industrial,1,1/1/2009,Seed VC,1,1,0
+11957,68490,1,Mountain View,California,United States,1,Internet,0.3,1/1/2009,Seed VC,3,1.32,1
+28084,21452,1,Pittsburgh,Pennsylvania,United States,1,,0.02,1/1/2009,Seed,1,0.02,0
+4081,4734,1,Toronto,Ontario,Canada,0,Software (non-internet/mobile),0.5,1/1/2009,Seed VC,4,18,0
+28607,141805,1,Ithaca,New York,United States,1,Healthcare,1,1/1/2009,Seed,10,37.77,0
+100924,145945,1,,,United Kingdom,0,Consumer Products & Services,,1/1/2009,Seed VC,1,,0
+6774,4465,1,Conshohocken,Pennsylvania,United States,1,Internet,,1/1/2009,Seed VC,1,,0
+16711,23431,1,Boulder,Colorado,United States,1,Computer Hardware & Services,0.5,1/1/2009,Seed VC,5,10,1
+13258,4709,1,London,,United Kingdom,0,Internet,0.3,1/1/2009,Seed,4,5.3,1
+15003,90526,0,New York,New York,United States,1,Internet,0.58,1/1/2009,Seed,9,13.1,0
+13207,4679,1,Austin,Texas,United States,1,Energy & Utilities,0.5,1/1/2009,Seed VC,1,0.5,0
+4709,21348,1,,,,0,Internet,,1/1/2009,Seed,1,,0
+24906,80877,0,Memphis,Tennessee,United States,1,Healthcare,,1/1/2009,Seed,3,3.32,0
+51158,136562,1,Chicago,Illinois,United States,1,Leisure,0.9,1/1/2009,Seed VC,4,7.32,0
+22672,69579,0,Spokane,Washington,United States,1,Automotive & Transportation,,1/1/2009,Seed,6,,1
+13271,4737,0,Redmond,Washington,United States,1,Business Products & Services,,1/1/2009,Seed,2,,0
+28291,22480,1,Pittsburgh,Pennsylvania,United States,1,,0.02,1/1/2009,Seed,1,0.02,0
+13260,4711,1,Dublin,Ohio,United States,1,Internet,0.35,1/1/2009,Seed,3,2.6,1
+28027,21210,0,Thornhill,Ontario,Canada,0,,,1/1/2009,Seed,1,,0
+13277,4750,1,Austin,Texas,United States,1,Industrial,0.5,1/1/2009,Seed VC,1,0.5,0
+28359,22876,0,,,,0,,0.02,1/1/2009,Seed,1,0.02,0
+3881,1861,1,Bellevue,Washington,United States,1,Business Products & Services,,1/1/2009,Seed VC,1,,0
+1488,109433,1,Cary,North Carolina,United States,1,Computer Hardware & Services,2.3,1/1/2009,Seed VC,4,26.3,0
+28066,21399,1,Pittsburgh,Pennsylvania,United States,1,,0.02,1/1/2009,Seed,1,0.02,0
+51044,68760,0,,,United States,1,Internet,0.02,1/1/2009,Seed,1,0.02,0
+82080,143459,1,Moscow,,Russian Federation,0,Internet,0.4,1/1/2009,Seed,4,13.4,1
+7446,158079,1,Mountain View,California,United States,1,Internet,,1/1/2009,Seed VC,6,86.7,0
+88730,123072,1,Colomiers,,France,0,Electronics,,1/1/2009,Seed,2,4.56,0
+93132,131435,0,,,Netherlands,0,Industrial,,1/1/2009,Seed VC,1,,0
+92681,130625,0,,,Singapore,0,Internet,0.2,1/1/2009,Seed,2,0.4,1
+51723,124958,1,Cleveland,Ohio,United States,1,Internet,,1/1/2009,Seed VC,5,13.6,0
+79076,102481,1,Newark,California,United States,1,Electronics,,1/1/2009,Seed VC,1,,0
+124896,161974,1,Boston,Massachusetts,United States,1,Internet,,1/1/2009,Seed VC,1,,1

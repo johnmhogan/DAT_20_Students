@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <title>Prediction Results for the 2012 Presidential Elections</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<style>
+
+
+</style>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+<script src="http://datamaps.github.io/scripts/0.4.0/datamaps.all.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+   <div class="container">
+        <div class="page-header" style="text-align:center;padding-bottom:40px">
+          <h1>2012 Presidential Election Results:<br>Results of Machine Learning Process</h1>
+        </div>
+        <form class="form-inline" role="form" style="padding-bottom:75px">
+         <div class="form-group">
+           <label for="email">Select Results Map:</label>
+           <select id="selector" name="colors" class="form-control">
+               <option value="black">Entire Union</option>
+               <option value="blue">Swing States</option>
+           </select>
+         </div>
+       </form>
+
+        <div id="map_election" class="union" style="position: relative; height: 550px;"></div>
+        <div class="union" style="text-align:center">
+            <h3>Results for the Entire Union</h3>
+        </div>
+        <div id="map_election_swing" class="swing" style="position: relative; height: 550px;"></div>
+        <div class="swing" style="text-align:center">
+            <h3>Results for Swing States</h3>
+        </div>
+   </div>
+
+
+<script>
+var election = new Datamap({
+scope: 'usa',
+element: document.getElementById('map_election'),
+geographyConfig: {
+highlightBorderColor: '#bada55',
+popupTemplate: function(geography, data) {
+  return '<div class="hoverinfo">' + geography.properties.name + '<br>Predicted:&nbsp;' +  data.Predicted + ' ' + '<br>Actual:&nbsp;' +  data.Actual + ' '
+},
+highlightBorderWidth: 3
+},
+
+fills: {
+'Republican': '#CC4731',
+'Democrat': '#306596',
+'Heavy Democrat': '#667FAF',
+'Light Democrat': '#A9C0DE',
+'Heavy Republican': '#CA5E5B',
+'Light Republican': '#EAA9A8',
+'Wrong Prediction': '#FFFF00',
+defaultFill: '#EDDC4E'
+},
+data:{
+    "WA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "DE": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "DC": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "WI": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "WV": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "HI": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "FL": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "WY": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "NH": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "NJ": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "NM": {
+        "Actual": "Democrat",
+        "Predicted": "Republican",
+        "fillKey": "Wrong Prediction"
+    },
+    "TX": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "LA": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "NC": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "ND": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "NE": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "TN": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "NY": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "PA": {
+        "Actual": "Democrat",
+        "Predicted": "Republican",
+        "fillKey": "Wrong Prediction"
+    },
+    "CA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "NV": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "VA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "CO": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "AK": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "AL": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "AR": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "VT": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "IL": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "GA": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "IN": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "IA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "OK": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "AZ": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "ID": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "CT": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "ME": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "MD": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "MA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "OH": {
+        "Actual": "Democrat",
+        "Predicted": "Republican",
+        "fillKey": "Wrong Prediction"
+    },
+    "UT": {
+        "Actual": "Republican",
+        "Predicted": "Democrat",
+        "fillKey": "Wrong Prediction"
+    },
+    "MO": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "MN": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "MI": {
+        "Actual": "Democrat",
+        "Predicted": "Republican",
+        "fillKey": "Wrong Prediction"
+    },
+    "RI": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Democrat"
+    },
+    "KS": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "MT": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "MS": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "SC": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "KY": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    },
+    "OR": {
+        "Actual": "Democrat",
+        "Predicted": "Republican",
+        "fillKey": "Wrong Prediction"
+    },
+    "SD": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Republican"
+    }
+}
+
+});
+election.labels();
+
+
+
+var election_swing = new Datamap({
+scope: 'usa',
+element: document.getElementById('map_election_swing'),
+geographyConfig: {
+highlightBorderColor: '#bada55',
+popupTemplate: function(geography, data) {
+  return '<div class="hoverinfo">' + geography.properties.name + '<br>Predicted:&nbsp;' +  data.Predicted + ' ' + '<br>Actual:&nbsp;' +  data.Actual + ' '
+},
+highlightBorderWidth: 3
+},
+
+fills: {
+'Wrong Prediction': '#FF0000',
+'Correct Prediction': '#00FF00',
+defaultFill: '#D3D3D3'
+},
+data:{
+    "WA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "DE": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "DC": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "WI": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "WV": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "HI": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "FL": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "WY": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "NH": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "NJ": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "NM": {
+        "Actual": "Democrat",
+        "Predicted": "Republican"
+    },
+    "TX": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "LA": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "NC": {
+        "Actual": "Republican",
+        "Predicted": "Republican",
+        "fillKey": "Correct Prediction"
+    },
+    "ND": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "NE": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "TN": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "NY": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "PA": {
+        "Actual": "Democrat",
+        "Predicted": "Republican"
+    },
+    "CA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "NV": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "VA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "CO": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "AK": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "AL": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "AR": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "VT": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "IL": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "GA": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "IN": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "IA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat",
+        "fillKey": "Correct Prediction"
+    },
+    "OK": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "AZ": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "ID": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "CT": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "ME": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "MD": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "MA": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "OH": {
+        "Actual": "Democrat",
+        "Predicted": "Republican",
+        "fillKey": "Wrong Prediction"
+    },
+    "UT": {
+        "Actual": "Republican",
+        "Predicted": "Democrat"
+    },
+    "MO": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "MN": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "MI": {
+        "Actual": "Democrat",
+        "Predicted": "Republican"
+    },
+    "RI": {
+        "Actual": "Democrat",
+        "Predicted": "Democrat"
+    },
+    "KS": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "MT": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "MS": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "SC": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "KY": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    },
+    "OR": {
+        "Actual": "Democrat",
+        "Predicted": "Republican"
+    },
+    "SD": {
+        "Actual": "Republican",
+        "Predicted": "Republican"
+    }
+}
+
+});
+election_swing.labels();
+
+
+</script>
+</body>
+<script>
+  $(".swing").hide()
+  $("#selector").change(function() {
+    var map = $("#selector option:selected").text();
+    if (map == 'Entire Union'){
+      $(".swing").hide();
+      $(".union").show();
+    }
+    else{
+      $(".swing").show();
+      $(".union").hide();
+    }
+
+});
+</script>

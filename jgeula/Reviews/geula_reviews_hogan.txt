@@ -1,0 +1,16 @@
+Strengths: 
+Great job with visualizing the data. Especially enjoyed the second to last viz around preference & trust for the different categories of drinks 
+The notes left by author were very helpful. 
+Excellent notebook overall, seems like they have a strong grasp on the required deliverables thus far. 
+
+Possible Improvements / Things I don't understand: 
+-Addition of a few notes about the data -- where did it come from, what is the target variable, what are the features, etc. Am able to get the gist of it, but possible point of improvement. 
+-Related to above, notes around selected brand metrics, what are they, why did you select them, etc.
+-probably my ignorance, but what is this based on? "Looking at Preference (Total_Prefer_pct) as our target variable, two things stand out to me - 
+Brand Relevance (Relevance_C) and Trust (Trustworthy_pct)" 
+	-if the correlation matrix, what about brand_stature or knowledge?
+
+Suggestions for next steps: 
+-Very interesting at the end to see that beers & spirits have the weakest relationship when compared to all categories. I think you're definitely on to something re: perceiving brands in the respective category 
+-Might not be relevant depending on the data here, but could be cool to do something around "Gaining_In_Popularity_pct" (if relevant)
+

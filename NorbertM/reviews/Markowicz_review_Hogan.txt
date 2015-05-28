@@ -1,0 +1,7 @@
+Hi John - Couple of points of feedback regarding your presentation:
+*Great job of visulizing some branding insights which I was definitely not aware of - Thank you!
+*You loaded some modules into memory without actually using it, e.g.:from sklearn.cross_validation import StratifiedKFold
+*You plotted the scatter and correlation matrices, but did not comment on any insights that it revealed
+*The linear model plots from the seaborn library added a beautiful touch.
+
+As a next step, I'd try to apply a linear model to determine which features best predict Total Preference Percentage.
