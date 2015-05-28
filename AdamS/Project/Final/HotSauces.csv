@@ -1,0 +1,21 @@
+Name,Product_ID,Ingredients,Sweet,Smoke,Fruit,Vinegar,Salt,Garlic,Adventure,Heat,Jalapeno,Serrano,Scotch_Bonnet,Habanero,Ghost_Pepper,Moruga_Scorpion,Carolina_Reaper,Vegan_Only,No_Gluten,No_Alcohol_Ingredients
+American Style Pepper Sauce A&B,76,"White Vinegar, Red Fresno Chili Pepper, Carrot, Red Onion, Habanero Pepper, Salt",2,0,5,6,2,0,2,5,0,0,0,1,0,0,0,1,1,1
+Jalapeno Adoboloco,77,"Apple Cider Vinegar, Jalapeño Peppers, Sea Salt, Garlic",1,0,3,5,3,3,2,4,1,0,0,0,0,0,0,1,1,1
+Habanero Adoboloco,78,"Apple Cider Vinegar, Habanero Peppers, Sea Salt, Garlic",1,0,3,5,3,3,2,5,0,0,0,1,0,0,0,1,1,1
+Bangkok Adoboloco,79,"Apple Cider Vinegar, Thai Peppers, Sea Salt, Garlic",1,0,3,5,3,3,5,6,0,0,0,0,0,0,0,1,1,1
+Hamajang Kiawe Smoked Ghost Pepper Adoboloco,80,"Apple Cider Vinegar, Ghost Peppers + Habanero, Sea Salt, Garlic",1,0,3,5,3,3,4,7,0,0,0,1,1,0,0,1,1,1
+Brooklyn Grange Hot Sauce,81,"Peppers, White Vinegar, Beets, Herbs, Spices, Apple Juice, Honey, Sugar",7,0,6,4,2,0,3,5,0,0,0,0,0,0,0,0,1,1
+Big Smoke Dawson's Hot Sauce,82,"Chipotle peppers, Vinegar, Vietnamese chili, Scotch bonnets, Jalapeño, Green chili, Red Sheppard, Garlic, Brown sugar, Extra virgin olive oil, Spices, Sea salt",6,6,4,4,3,0,5,5,1,0,1,0,0,0,0,1,1,1
+Sweet Pear Chili Dawson's Hot Sauce,83,"Pear, Vinegar, Vietnamese chili, Garlic, Extra virgin olive oil, Lime, Spices, Sea salt",7,0,7,4,1,0,5,4,0,0,0,0,0,0,0,1,1,1
+Garlic Jalapeno Dawson's Hot Sauce,84,"Vinegar, Jalapeño, Garlic, Onion, Vietnamese chili, Green Sheppard, Extra virgin olive oil, Spices, Sea salt",2,0,3,5,2,5,5,4,1,0,0,0,0,0,0,1,1,1
+Tears Of The Sun High River Sauces,85,"Habanero Peppers, Peaches, Papaya, Pineapple, Mango, Cider Vinegar, Brown Sugar, Ginger, Red Pepper, Salt, and Garlic",7,0,8,3,2,3,7,4,1,0,0,1,0,0,0,1,1,1
+Rogue High River Sauces,86,"Moruga Scorpion Peppers, Jolokia Peppers, Red Serrano Peppers, Blood Oranges, Apples, Pears, Apple Cider Vinegar, Brown Sugar, Lime Juice, Garlic, Ginger",6,0,7,3,1,3,7,8,0,1,0,1,1,1,0,1,1,1
+The Green Horsetooth Hot Sauce,87,"Distilled White Vinegar, Green Habaneros, Serranos,Tomatillos, Garlic, Onions, Salt, Black Pepper, Xanthan Gum",3,0,4,5,3,5,2,5,0,1,0,1,0,0,0,1,0,1
+"The ""O"" Face Horsetooth Hot Sauce ",88,"Distilled White Vinegar, Orange Habaneros, Cantaloupe, Carrots, Garlic, Onion, Salt, Black Pepper, Xanthan Gum",6,0,6,4,2,3,5,4,0,0,0,1,0,0,0,1,0,1
+Naughty #4 Horsetooth Hot Sauce,89,"Distilled white vinegar, Mango, Scotch bonnets, Habaneros, Salt, Black pepper, Xanthum gum",5,0,6,4,2,0,6,7,0,0,1,1,0,0,0,1,0,1
+Bad Karma Sauce,90,"Red pepper, Butternut squash, Apple cider Vinegar, Onion, Sweet potato, Honey, Garlic, Salt, Ginger",5,0,5,3,2,2,5,3,0,0,0,0,0,0,0,1,1,1
+Cherry Bomb Hot Sauce,91,"Sour cherries, Habanero pepper, Onion, Apple, Apple cider vinegar, Evaporated cane juice, Lime juice, Ground coffee, Lemon zest, Cinnamon, Clove",7,0,8,4,0,0,7,4,0,0,0,1,0,0,0,1,1,1
+Extreme Karma,92,"Red pepper, Butternut squash, Apple cider vinegar, onion, Sweet potato, Honey, Garlic, Salt, Ginger",7,0,6,4,2,3,3,3,0,0,0,0,0,0,0,1,1,1
+Green Label Lucky Dog,93,"Water, Carrot juice, Chile peppers, Sea salt, Sugar, Carrots, Lime juice from concentrate, Dried chile peppers",6,0,5,0,4,0,3,3,0,0,0,0,0,0,0,1,1,1
+Red Label Lucky Dog,94,"Apple cider vinegar, Onions, Roasted chile peppers, Roasted garlic, Water, Carrot juice, Chile peppers, Sea salt, Carrots, Dried chile peppers, Sugar, Lime juice",6,0,4,5,0,0,3,4,0,0,0,0,0,0,0,1,1,1
+Black Label Lucky Dog,95,"Onions, Apple cider vinegar, Water, Organic apple sauce, Jalapeno peppers, Garlic, Dried figs, Sugar, Moruga Scorpion peppers, Sea salt, Ghost Pepper sea salt, Lime juice",7,0,4,5,0,0,3,7,1,0,0,0,1,1,0,1,1,1
