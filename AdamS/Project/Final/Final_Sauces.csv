@@ -1,0 +1,71 @@
+Product ID,heat_mild,heat_medium,heat_hot,heat_hotter,heat_superhot,flavor_sweet,flavor_smoke,flavor_fruit,flavor_vinegar,flavor_salt,flavor_garlic,pepper_Jalapeno,pepper_Serrano,pepper_Scotch Bonnet,pepper_Habanero,pepper_Ghost Pepper,pepper_Moruga Scorpion,pepper_Carolina Reaper,dietary_vegan,dietary_noGluten,dietary_noAlcohol
+Guerilla Condiment Co Green,0,1,0,0,0,1.5,0,0.5,3,2,2,0,0,0,0,0,0,0,1,1,1
+Belcastro's NYC Hot Sauce Co,0,0,1,0,0,2,0,1.5,2,2.5,1,0,0,0,1,0,0,0,1,1,1
+Mike's Hot Honey,0,1,0,0,0,4.5,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,1,1
+Queen Majesty Scotch Bonnet & Ginger Hot Sauce,0,0,1,0,0,2.5,0,2,1.5,1.5,1.5,0,0,1,0,0,0,0,1,1,1
+Queen Majesty Jalapeno Tequila & Lime Hot Sauce,0,1,0,0,0,2.5,0.5,2,2,2.5,3.5,0,0,0,0,0,0,0,1,1,0
+Bacchanal Caribbean Style Pepper Sauce,0,1,0,0,0,3,0,3.5,1,1,1,0,0,0,0,0,0,0,1,1,1
+Karma Sauce Co Bad Karma,0,1,0,0,0,3,1,2,1.5,1.5,1.5,0,0,0,0,0,0,0,0,1,1
+Karma Sauce Co Extreme Karma,0,0,0,1,0,3,1.5,2.5,1.5,1.5,1.5,0,0,0,0,0,0,0,0,1,1
+Karma Sauce Co Cherry Bomb,0,0,1,0,0,3.5,2,3.5,1,2.5,1,0,0,0,1,0,0,0,1,1,1
+Karma Sauce Co Green Envy,0,0,1,0,0,1.5,2,2,2,2,1.5,0,0,0,1,0,0,0,1,1,1
+Karma Sauce Co Ghost Island,0,0,0,0,1,2,2.5,2,0.5,1.5,1.5,0,0,0,1,1,1,0,1,1,1
+The Chili Lab The Grove Blend Chili Butter,0,0,1,0,0,3,2,2,0,2,2,0,0,0,1,0,0,0,0,1,1
+The Chili Lab Forager's Blend Chili Butter,0,0,1,0,0,1.5,4,0,0.5,2.5,2.5,0,0,0,0,0,0,0,0,1,1
+High River Sauces Foo Foo Mama Choo,0,0,0,1,0,2.5,0.5,1.5,2,2,1,0,0,0,0,0,0,1,1,1,1
+High River Sauces Rogue,0,0,0,1,0,3.5,0.5,3.5,2,1.5,0.5,0,1,0,0,1,1,0,1,1,1
+High River Sauces Hellacious Hot Sauce,0,0,1,0,0,3,3,2,2.5,3,2.5,1,0,0,1,0,0,0,1,1,1
+High River Sauces Tears of the Sun,0,0,1,0,0,3.5,0,4,2,1.5,1,0,0,0,1,0,0,0,1,1,1
+Hot Winter Poblano,1,0,0,0,0,3,2.5,1.5,2,2,2,0,0,0,0,0,0,0,1,1,1
+CaJohn's Quetzalcoatl Ghost Chili Sauce,0,0,1,0,0,3,3,0,2,2.5,2,0,1,0,0,1,0,0,1,1,1
+Anthony Kearn's Burn Out,0,0,0,1,0,1.5,1.5,2,2.5,2,0,0,0,0,0,0,0,1,1,1,1
+Anthony Kearn's Wrath of Cerberus,0,0,0,1,0,1.5,1.5,1.5,2.5,2.5,1.5,0,0,0,0,0,0,1,1,1,1
+Bravado Spice Co Jalapeno & Green Apple,0,1,0,0,0,2,0.5,3,2,2,3,1,0,0,0,0,0,0,1,1,1
+Bravado Spice Co Pineapple & Habanero,0,0,1,0,0,3,0.5,4,2.5,1.5,3,0,0,0,1,0,0,0,1,1,1
+Bravado Spice Co Ghost Pepper & Blueberry,0,0,0,1,0,3,1.5,4.5,2.5,1,0,0,0,0,0,1,0,0,1,1,1
+Mellow Habanero Habanero Pepper Sauce,0,0,1,0,0,2.5,1.5,3.5,2,1.5,1,0,0,0,1,0,0,0,1,1,1
+Mellow Habanero Heaven Most Hot,0,0,0,1,0,1.5,0.5,2.5,1,1,0,0,0,0,1,0,0,0,1,1,1
+Mellow Habanero Smoky Chipotle Sauce,0,0,1,0,0,2.5,4,2.5,2,1.5,0,1,0,0,1,0,0,0,1,1,1
+Dawson's Hot Sauce Big Smoke,0,0,1,0,0,1,4,1,1,2.5,0,1,0,0,0,0,0,0,1,1,1
+Dawson's Hot Sauce Garlic Jalapeno,1,0,0,0,0,2,0.5,0,2.5,1.5,5,1,0,0,0,0,0,0,1,1,1
+Dawson's Hot Sauce Sweet Pear Chili,0,1,0,0,0,3.5,0,4,1.5,1.5,0,0,0,0,0,0,0,0,1,1,1
+Adoboloco Pineapple,1,0,0,0,0,3,0,5,1.5,1.5,2,0,0,0,1,0,0,0,1,1,1
+Adoboloco Jalapeno,0,1,0,0,0,2,0,1.5,4.5,2.5,1.5,1,0,0,0,0,0,0,1,1,1
+Adoboloco Habanero,0,0,1,0,0,2,0.5,3,4.5,2.5,1,0,0,0,1,0,0,0,1,1,1
+Adoboloco Bangkok,0,0,1,0,0,1.5,0,1.5,4.5,2.5,1.5,0,0,0,0,0,0,0,1,1,1
+Adoboloco Hamajang Smoked Ghost Pepper,0,0,0,1,0,1,5,1,4,3,2.5,0,0,0,0,1,0,0,1,1,1
+Adoboloco Hawaiian Hot Sauce,0,0,0,1,0,1.5,0,1,4,3,2,0,0,0,0,0,0,0,1,1,1
+Marshall's Haute Sauce Cranberry Red Jalapeno,0,1,0,0,0,3.5,0.5,3.5,1.5,1,0,1,0,0,0,0,0,0,1,1,1
+Marshall's Haute Sauce Red Chili Lime,0,1,0,0,0,2,0,3,2,2,2,0,0,0,0,0,0,0,0,1,1
+Marshall's Haute Sauce Habanero Carrot Curry,0,1,0,0,0,3,1.5,1,1,1.5,2,0,0,0,1,0,0,0,1,1,1
+Marshall's Haute Sauce Serrano Ginger Lemongrass,0,1,0,0,0,4,0,2.5,2,1,1,0,1,0,0,0,0,0,1,1,1
+Marshall's Haute Sauce Ghost Chili Apple,0,0,1,0,0,3,3,3,1.5,1.5,1.5,0,0,0,0,1,0,0,1,1,1
+Honest Ember Hickory Habanero,0,0,0,1,0,1.5,5,1.5,3,2,2,0,0,0,1,0,0,0,1,1,1
+Heirloom Hot Sauce Beaver Dam Pepper,1,0,0,0,0,0.5,1,0.5,3.5,3,2.5,0,0,0,0,0,0,0,0,1,1
+Heirloom Hot Sauce American Persimmon,0,1,0,0,0,1.5,0.5,1.5,3,2.5,1.5,0,0,0,0,0,0,0,1,1,1
+Heirloom Hot Sauce Chiltepin,0,1,0,0,0,1.5,1.5,1,3,3,1.5,0,0,0,0,0,0,0,1,1,1
+Street Eatzz 313 Foodie Sauce,0,0,1,0,0,3,2,3,2,2,0,0,0,0,1,0,0,0,1,1,1
+Sweet Heat Gourmet Roasted Jalapeno Hot Sauce,0,1,0,0,0,3.5,2,2,2,2,1.5,1,0,0,0,0,0,0,0,1,1
+Sweet Heat Gourmet Key Lime Pear Hot Sauce,1,0,0,0,0,4.5,1.5,4.5,1,1.5,1,0,0,0,1,0,0,0,0,1,1
+Sweet Heat Gourmet Sinclair's Fatali Hot Sauce,0,0,1,0,0,4,1.5,3,2,1,1,0,0,0,0,0,0,0,1,1,1
+Sweet Heat Gourmet Pineapply & Ghost Pepper Hot Sauce,0,0,0,1,0,4.5,2.5,4.5,1.5,2,1.5,0,0,0,0,1,0,0,1,1,1
+Sweet Heat Gourmet Moruga Scorpion Hot Sauce,0,0,0,1,0,3.5,1.5,3,2,2,1,0,0,0,0,0,1,0,1,1,1
+Bigfat's 208 Bajan Style Hot Sauce,0,0,1,0,0,1,1,1,2.5,1.5,3.5,0,0,0,1,0,0,0,1,1,1
+Bigfat's 708 7 Pot Citrus Hot Sauce,0,0,0,1,0,3,2,2.5,1,1.5,2.5,0,0,0,0,0,0,0,1,1,1
+Bigfat's 808 Naga Jolokia Hot Sauce,0,0,0,1,0,1,3,0.5,1.5,2.5,3,0,0,0,1,1,0,0,1,1,1
+Torchbearer Sauces Zombie Apocalypse,0,0,0,0,1,1.5,2,2,1.5,2,1.5,0,0,0,1,1,0,0,1,1,1
+Torchbearer Sauces #7 Sultry Hot Sauce,0,0,1,0,0,3,0.5,3,1.5,1.5,1,0,0,0,1,0,0,0,1,1,1
+Torchbearer Sauces #37 Tarnation Hot Sauce,0,0,1,0,0,2.5,0.5,3,2,1.5,1,0,0,0,1,0,0,0,1,1,1
+Torchbearer Sauces Carolina-Style Barbeque Sauce,1,0,0,0,0,3.5,1.5,1,3,1.5,1,0,0,0,0,0,0,0,1,1,1
+Torchbearer Sauces Smokey Horseradish Sauce,0,1,0,0,0,0.5,3.5,0,2,2.5,2.5,0,0,0,1,0,0,0,1,1,1
+Torchbearer Sauces Oh My Garlic!,0,0,0,0,0,0.5,1.5,0,1,1.5,4,0,0,0,0,0,0,0,1,1,1
+Pablo's Peaches N' Heat,0,1,0,0,0,4,0.5,4,2.5,1.5,0,0,1,0,0,0,0,0,1,1,1
+Pablo's Peaches On Fire,0,0,1,0,0,4.5,0.5,3.5,1.5,1.5,0.5,0,0,0,1,0,0,0,1,1,1
+Pablo's Bull Fighter,0,0,0,1,0,2.5,2,3,2,2.5,0.5,0,0,0,1,1,0,0,1,1,1
+Mina Harissa Green Harissa,0,1,0,0,0,1.5,1,1,1.5,2.5,4,0,0,0,0,0,0,0,1,1,1
+Lucky Dog Hot Sauce Green Label - Mild,0,1,0,0,0,1.5,3,1,1.5,2,3.5,0,0,0,0,0,0,0,1,1,1
+Lucky Dog Hot Sauce Purple Lable - Extra Mild,1,0,0,0,0,2.5,2.5,1,1.5,1.5,3,1,0,0,0,0,0,0,1,1,1
+Lucky Dog Hot Sauce Red Label - Medium,0,1,0,0,0,2.5,3,1,1.5,2.5,3,0,0,0,0,0,0,0,1,1,1
+Lucky Dog Hot Sauce Dia Del Perro,0,1,0,0,0,1.5,3,1,1.5,2.5,2.5,0,1,0,0,0,0,0,1,1,1
+Lucky Dog Hot Sauce Black Label - Extra Hot,0,0,0,1,0,3,2,2.5,1,2,2,1,0,0,0,1,1,0,1,1,1
+Secret Aardvark Habanero Hot Sauce,0,0,1,0,0,3,2,2,2,2.5,2.5,1,0,0,0,0,0,0,1,1,1
